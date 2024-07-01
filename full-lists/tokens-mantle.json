@@ -541,5 +541,13 @@
         "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x4b7F28397B4294277E7825f224172944f4f5A877/logo.png",
         "decimals": 18,
         "address": "0x4b7f28397b4294277e7825f224172944f4f5a877"
+    },
+    "0x6ede8fa28da1b0880565ca0eb670396a66408272": {
+        "chainId": 5000,
+        "name": "HER",
+        "symbol": "HER",
+        "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x6ede8fa28da1b0880565ca0Eb670396A66408272/logo.png",
+        "decimals": 18,
+        "address": "0x6ede8fa28da1b0880565ca0eb670396a66408272"
     }
 }
