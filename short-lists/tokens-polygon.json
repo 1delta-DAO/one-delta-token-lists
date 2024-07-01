@@ -1,0 +1,322 @@
+{
+    "0xd6df932a45c0f255f85145f286ea0b292b21c90b": {
+        "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+        "decimals": 18,
+        "name": "Aave",
+        "symbol": "AAVE",
+        "chainId": 137,
+        "logoURI": "https://assets.polygon.technology/tokenAssets/aave.svg"
+    },
+    "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4": {
+        "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
+        "decimals": 18,
+        "name": "agEUR",
+        "symbol": "agEUR",
+        "chainId": 137,
+        "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F19479%2Fsmall%2FagEUR-4.png%3F1710726218&w=32&q=75"
+    },
+    "0x0621d647cecbfb64b79e44302c1933cb4f27054d": {
+        "address": "0x0621d647cecbfb64b79e44302c1933cb4f27054d",
+        "decimals": 18,
+        "name": "Amp",
+        "symbol": "AMP",
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397"
+    },
+    "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3": {
+        "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+        "decimals": 18,
+        "name": "Balancer",
+        "symbol": "BAL",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+    },
+    "0xa8b1e0764f85f53dfe21760e8afe5446d82606ac": {
+        "address": "0xa8b1e0764f85f53dfe21760e8afe5446d82606ac",
+        "decimals": 18,
+        "name": "BandToken",
+        "symbol": "BAND",
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/9545/thumb/band-protocol.png?1568730326"
+    },
+    "0xc26d47d5c33ac71ac5cf9f776d63ba292a4f7842": {
+        "address": "0xc26d47d5c33ac71ac5cf9f776d63ba292a4f7842",
+        "decimals": 18,
+        "name": "Bancor Network Token",
+        "symbol": "BNT",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png"
+    },
+    "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c": {
+        "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+        "decimals": 18,
+        "name": "Compound",
+        "symbol": "COMP",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
+    },
+    "0x172370d5cd63279efa6d502dab29171933a610af": {
+        "address": "0x172370d5cd63279efa6d502dab29171933a610af",
+        "decimals": 18,
+        "name": "Curve DAO Token",
+        "symbol": "CRV",
+        "chainId": 137,
+        "logoURI": "https://cryptologos.cc/logos/curve-dao-token-crv-logo.svg?v=031"
+    },
+    "0x66dc5a08091d1968e08c16aa5b27bac8398b02be": {
+        "address": "0x66dc5a08091d1968e08c16aa5b27bac8398b02be",
+        "decimals": 8,
+        "name": "Civic",
+        "symbol": "CVC",
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/788/thumb/civic.png?1547034556"
+    },
+    "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
+        "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "decimals": 18,
+        "name": "Dai",
+        "symbol": "DAI",
+        "chainId": 137,
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg"
+    },
+    "0xbd7a5cf51d22930b8b3df6d834f9bcef90ee7c4f": {
+        "address": "0xbd7a5cf51d22930b8b3df6d834f9bcef90ee7c4f",
+        "decimals": 18,
+        "name": "Ethereum Name Service",
+        "symbol": "ENS",
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/19785/thumb/acatxTm8_400x400.jpg?1635850140"
+    },
+    "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8": {
+        "address": "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8",
+        "decimals": 18,
+        "name": "Gnosis Token",
+        "symbol": "GNO",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
+    },
+    "0x5fe2b58c013d7601147dcdd68c143a77499f5531": {
+        "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+        "decimals": 18,
+        "name": "Graph Token",
+        "symbol": "GRT",
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566"
+    },
+    "0x42f37a1296b2981f7c3caced84c5096b2eb0c72c": {
+        "address": "0x42f37a1296b2981f7c3caced84c5096b2eb0c72c",
+        "decimals": 18,
+        "name": "KEEP Token",
+        "symbol": "KEEP",
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/3373/thumb/IuNzUb5b_400x400.jpg?1589526336"
+    },
+    "0x324b28d6565f784d596422b0f2e5ab6e9cfa1dc7": {
+        "address": "0x324b28d6565f784d596422b0f2e5ab6e9cfa1dc7",
+        "decimals": 18,
+        "name": "Kyber Network Crystal",
+        "symbol": "KNC",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
+    },
+    "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39": {
+        "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+        "decimals": 18,
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "chainId": 137,
+        "logoURI": "https://assets.polygon.technology/tokenAssets/link.svg"
+    },
+    "0x66efb7cc647e0efab02eba4316a2d2941193f6b3": {
+        "address": "0x66efb7cc647e0efab02eba4316a2d2941193f6b3",
+        "decimals": 18,
+        "name": "LoomToken",
+        "symbol": "LOOM",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png"
+    },
+    "0x84e1670f61347cdaed56dcc736fb990fbb47ddc1": {
+        "address": "0x84e1670f61347cdaed56dcc736fb990fbb47ddc1",
+        "decimals": 18,
+        "name": "LoopringCoin V2",
+        "symbol": "LRC",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png"
+    },
+    "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4": {
+        "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+        "decimals": 18,
+        "name": "Decentraland MANA",
+        "symbol": "MANA",
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png?1550108745"
+    },
+    "0x0000000000000000000000000000000000001010": {
+        "address": "0x0000000000000000000000000000000000001010",
+        "decimals": 18,
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "chainId": 137,
+        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
+    },
+    "0x6f7c932e7684666c9fd1d44527765433e01ff61d": {
+        "address": "0x6f7c932e7684666c9fd1d44527765433e01ff61d",
+        "decimals": 18,
+        "name": "Maker",
+        "symbol": "MKR",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+    },
+    "0x0bf519071b02f22c17e7ed5f4002ee1911f46729": {
+        "address": "0x0bf519071b02f22c17e7ed5f4002ee1911f46729",
+        "decimals": 18,
+        "name": "Numeraire",
+        "symbol": "NMR",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671/logo.png"
+    },
+    "0x9880e3dda13c8e7d4804691a45160102d31f6060": {
+        "address": "0x9880e3dda13c8e7d4804691a45160102d31f6060",
+        "decimals": 18,
+        "name": "Orchid",
+        "symbol": "OXT",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png"
+    },
+    "0x19782d3dc4701ceeedcd90f0993f0a9126ed89d0": {
+        "address": "0x19782d3dc4701ceeedcd90f0993f0a9126ed89d0",
+        "decimals": 18,
+        "name": "Republic Token",
+        "symbol": "REN",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
+    },
+    "0x6563c1244820cfbd6ca8820fbdf0f2847363f733": {
+        "address": "0x6563c1244820cfbd6ca8820fbdf0f2847363f733",
+        "decimals": 18,
+        "name": "Reputation",
+        "symbol": "REPv2",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x221657776846890989a759BA2973e427DfF5C9bB/logo.png"
+    },
+    "0x50b728d8d964fd00c2d0aad81718b71311fef68a": {
+        "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+        "decimals": 18,
+        "name": "Synthetix Network Token",
+        "symbol": "SNX",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+    },
+    "0xd72357daca2cf11a5f155b9ff7880e595a3f5792": {
+        "address": "0xd72357daca2cf11a5f155b9ff7880e595a3f5792",
+        "decimals": 8,
+        "name": "StorjToken",
+        "symbol": "STORJ",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC/logo.png"
+    },
+    "0xf81b4bec6ca8f9fe7be01ca734f55b2b6e03a7a0": {
+        "address": "0xf81b4bec6ca8f9fe7be01ca734f55b2b6e03a7a0",
+        "decimals": 18,
+        "name": "Synth sUSD",
+        "symbol": "sUSD",
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765"
+    },
+    "0x3066818837c5e6ed6601bd5a91b0762877a6b731": {
+        "address": "0x3066818837c5e6ed6601bd5a91b0762877a6b731",
+        "decimals": 18,
+        "name": "UMA Voting Token v1",
+        "symbol": "UMA",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
+    },
+    "0xb33eaad8d922b1083446dc23f610c2567fb5180f": {
+        "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+        "decimals": 18,
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "chainId": 137,
+        "logoURI": "https://assets.polygon.technology/tokenAssets/uni.svg"
+    },
+    "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359": {
+        "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+        "decimals": 6,
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "chainId": 137,
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
+    },
+    "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
+        "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "decimals": 6,
+        "name": "Bridged USD Coin",
+        "symbol": "USDC.e",
+        "chainId": 137,
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
+    },
+    "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
+        "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "decimals": 6,
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "chainId": 137,
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg"
+    },
+    "0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f": {
+        "address": "0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f",
+        "decimals": 6,
+        "name": "VOXEL",
+        "symbol": "VOXEL",
+        "chainId": 137,
+        "logoURI": "https://user-images.githubusercontent.com/123928327/215405960-492e53a4-6fc8-4545-95e7-528cfda4538a.png"
+    },
+    "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6": {
+        "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+        "decimals": 8,
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "chainId": 137,
+        "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg"
+    },
+    "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619": {
+        "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "decimals": 18,
+        "name": "Ether",
+        "symbol": "ETH",
+        "chainId": 137,
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+    },
+    "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "decimals": 18,
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+    },
+    "0xdc3326e71d45186f113a2f448984ca0e8d201995": {
+        "address": "0xdc3326e71d45186f113a2f448984ca0e8d201995",
+        "decimals": 6,
+        "name": "XSGD",
+        "symbol": "XSGD",
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/12832/standard/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1696512623"
+    },
+    "0xda537104d6a5edd53c6fbba9a898708e465260b6": {
+        "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+        "decimals": 18,
+        "name": "yearn.finance",
+        "symbol": "YFI",
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330"
+    },
+    "0x5559edb74751a0ede9dea4dc23aee72cca6be3d5": {
+        "address": "0x5559edb74751a0ede9dea4dc23aee72cca6be3d5",
+        "decimals": 18,
+        "name": "0x Protocol Token",
+        "symbol": "ZRX",
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+    }
+}

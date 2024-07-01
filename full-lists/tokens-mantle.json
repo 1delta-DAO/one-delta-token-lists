@@ -1,0 +1,545 @@
+{
+    "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9": {
+        "chainId": 5000,
+        "name": "USD Coin",
+        "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9.png"
+    },
+    "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae": {
+        "chainId": 5000,
+        "name": "USD Tether",
+        "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x201eba5cc46d216ce6dc03f6a759e8e766e956ae.png"
+    },
+    "0x5be26527e817998a7206475496fde1e68957c5a6": {
+        "chainId": 5000,
+        "name": "Ondo U.S. Dollar Yield",
+        "address": "0x5be26527e817998a7206475496fde1e68957c5a6",
+        "symbol": "USDY",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x5be26527e817998a7206475496fde1e68957c5a6.png"
+    },
+    "0xf93a85d53e4af0d62bdf3a83ccfc1ecf3eaf9f32": {
+        "chainId": 5000,
+        "name": "LUSD Stablecoin",
+        "address": "0xf93a85d53e4af0d62bdf3a83ccfc1ecf3eaf9f32",
+        "symbol": "LUSD",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xf93a85d53e4af0d62bdf3a83ccfc1ecf3eaf9f32.png"
+    },
+    "0x5a093a9c4f440c6b105f0af7f7c4f1fbe45567f9": {
+        "chainId": 5000,
+        "name": "Stratum Exchange",
+        "address": "0x5a093a9c4f440c6b105f0af7f7c4f1fbe45567f9",
+        "symbol": "STRAT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/33646/standard/coin_strat.png?1702541330"
+    },
+    "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8": {
+        "chainId": 5000,
+        "name": "Wrapped MNT",
+        "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+        "symbol": "WMNT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8.png"
+    },
+    "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111": {
+        "chainId": 5000,
+        "name": "Ether",
+        "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111.png"
+    },
+    "0x25356aeca4210ef7553140edb9b8026089e49396": {
+        "chainId": 5000,
+        "name": "Lendle Protocol Token",
+        "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
+        "symbol": "LEND",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x25356aeca4210ef7553140edb9b8026089e49396.png"
+    },
+    "0xcda86a272531e8640cd7f1a92c01839911b90bb0": {
+        "chainId": 5000,
+        "name": "Mantle Staked Ether",
+        "address": "0xcda86a272531e8640cd7f1a92c01839911b90bb0",
+        "symbol": "mETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xcda86a272531e8640cd7f1a92c01839911b90bb0.png"
+    },
+    "0x458ed78eb972a369799fb278c0243b25e5242a83": {
+        "chainId": 5000,
+        "name": "Wrapped liquid staked Ether 2.0",
+        "address": "0x458ed78eb972a369799fb278c0243b25e5242a83",
+        "symbol": "wstETH",
+        "decimals": 18,
+        "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg"
+    },
+    "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3": {
+        "chainId": 5000,
+        "name": "Mantle USD",
+        "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
+        "symbol": "mUSD",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xab575258d37eaa5c8956efabe71f4ee8f6397cf3.png"
+    },
+    "0x08d1099101de99b14c68975222a235b63e6b8c91": {
+        "chainId": 5000,
+        "name": "IDIA",
+        "address": "0x08d1099101de99b14c68975222a235b63e6b8c91",
+        "symbol": "IDIA",
+        "decimals": 18
+    },
+    "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140": {
+        "chainId": 5000,
+        "name": "Puff Dragon",
+        "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+        "symbol": "PUFF",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x26a6b0dcdcfb981362afa56d581e4a7dba3be140.png"
+    },
+    "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979": {
+        "chainId": 5000,
+        "name": "Fantom Bomb",
+        "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
+        "symbol": "fBOMB",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/24109/standard/logo-blue.png?1696523301"
+    },
+    "0x8a3ed1f2d15b5015396f494cc1da977da38a6773": {
+        "chainId": 5000,
+        "name": "Entangle",
+        "address": "0x8a3ed1f2d15b5015396f494cc1da977da38a6773",
+        "symbol": "NGL",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x8A3ed1F2D15b5015396F494cc1Da977da38A6773/logo.png"
+    },
+    "0x96630b0d78d29e7e8d87f8703de7c14b2d5ae413": {
+        "chainId": 5000,
+        "name": "ApeX Token",
+        "address": "0x96630b0d78d29e7e8d87f8703de7c14b2d5ae413",
+        "symbol": "APEX",
+        "decimals": 18,
+        "logoURI": "https://token-list.mantle.xyz/data/APEX/logo.svg"
+    },
+    "0x3e65ac1dd4938e02301c4869d3043903f5deb474": {
+        "chainId": 5000,
+        "name": "Baby Doge Coin",
+        "address": "0x3e65ac1dd4938e02301c4869d3043903f5deb474",
+        "symbol": "BabyDoge",
+        "decimals": 9,
+        "logoURI": "https://token-list.mantle.xyz/data/Babydoge/logo.png"
+    },
+    "0x3390108e913824b8ead638444cc52b9abdf63798": {
+        "chainId": 5000,
+        "address": "0x3390108e913824b8ead638444cc52b9abdf63798",
+        "decimals": 18,
+        "name": "Bella",
+        "symbol": "BEL",
+        "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bel.png"
+    },
+    "0xe7798f023fc62146e8aa1b36da45fb70855a77ea": {
+        "chainId": 5000,
+        "name": "Custom UPS",
+        "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+        "symbol": "CUPS",
+        "decimals": 18,
+        "logoURI": "https://token-list.mantle.xyz/data/CUPS/logo.svg"
+    },
+    "0x9e1028f5f1d5ede59748ffcee5532509976840e0": {
+        "chainId": 5000,
+        "name": "Equilibria Pendle",
+        "address": "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
+        "symbol": "ePendle",
+        "decimals": 18,
+        "logoURI": "https://token-list.mantle.xyz/data/ePendle/logo.svg"
+    },
+    "0x3e7ef8f50246f725885102e8238cbba33f276747": {
+        "chainId": 5000,
+        "name": "Equilibria Token",
+        "address": "0x3e7ef8f50246f725885102e8238cbba33f276747",
+        "symbol": "EQB",
+        "decimals": 18,
+        "logoURI": "https://token-list.mantle.xyz/data/EQB/logo.svg"
+    },
+    "0x6efff76acf1698a6a215eca7d632991678ec673b": {
+        "chainId": 5000,
+        "name": "FLOKI",
+        "address": "0x6efff76acf1698a6a215eca7d632991678ec673b",
+        "symbol": "FLOKI",
+        "decimals": 9,
+        "logoURI": "https://token-list.mantle.xyz/data/Floki/logo.png"
+    },
+    "0xa29b548056c3fd0f68bad9d4829ec4e66f22f796": {
+        "chainId": 5000,
+        "name": "Idexo Token",
+        "address": "0xa29b548056c3fd0f68bad9d4829ec4e66f22f796",
+        "symbol": "IDO",
+        "decimals": 18,
+        "logoURI": "https://token-list.mantle.xyz/data/IDO/logo.svg"
+    },
+    "0x6968f3f16c3e64003f02e121cf0d5ccbf5625a42": {
+        "chainId": 5000,
+        "name": "IONX",
+        "address": "0x6968f3f16c3e64003f02e121cf0d5ccbf5625a42",
+        "symbol": "IONX",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x6968f3f16c3e64003f02e121cf0d5ccbf5625a42.png"
+    },
+    "0xd27b18915e7acc8fd6ac75db6766a80f8d2f5729": {
+        "chainId": 5000,
+        "name": "PENDLE",
+        "address": "0xd27b18915e7acc8fd6ac75db6766a80f8d2f5729",
+        "symbol": "PENDLE",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xd27b18915e7acc8fd6ac75db6766a80f8d2f5729.png"
+    },
+    "0x8baf44b350ef672232a6673e1e128c7875640477": {
+        "chainId": 5000,
+        "name": "Pepe",
+        "address": "0x8baf44b350ef672232a6673e1e128c7875640477",
+        "symbol": "PEPE",
+        "decimals": 18,
+        "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png"
+    },
+    "0x49397ac9cb061152b770b1d274a5682155f20099": {
+        "chainId": 5000,
+        "name": "SHIBA INU",
+        "address": "0x49397ac9cb061152b770b1d274a5682155f20099",
+        "symbol": "SHIB",
+        "decimals": 18,
+        "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png"
+    },
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
+        "chainId": 5000,
+        "name": "sUSDe",
+        "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+        "symbol": "sUSDe",
+        "decimals": 18,
+        "logoURI": "https://token-list.mantle.xyz/data/SUSDE/logo.svg"
+    },
+    "0x35d48a789904e9b15705977192e5d95e2af7f1d3": {
+        "chainId": 5000,
+        "name": "Tellor Tributes",
+        "address": "0x35d48a789904e9b15705977192e5d95e2af7f1d3",
+        "symbol": "TRB",
+        "decimals": 18,
+        "logoURI": "https://token-list.mantle.xyz/data/TRB/logo.svg"
+    },
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
+        "chainId": 5000,
+        "name": "USDe",
+        "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+        "symbol": "USDe",
+        "decimals": 18,
+        "logoURI": "https://token-list.mantle.xyz/data/USDE/logo.svg"
+    },
+    "0x8fe7176f0bf63358ad9490fd24ac0bdb4dac33a8": {
+        "chainId": 5000,
+        "address": "0x8fe7176f0bf63358ad9490fd24ac0bdb4dac33a8",
+        "decimals": 6,
+        "name": "USDLR by Stable",
+        "symbol": "USDLR",
+        "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdlr.png"
+    },
+    "0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2": {
+        "chainId": 5000,
+        "name": "Wrapped BTC",
+        "address": "0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2.png"
+    },
+    "0x94a42083948d86432246ead625b30d49014a4bff": {
+        "chainId": 5000,
+        "name": "LOOT Token",
+        "address": "0x94a42083948d86432246ead625b30d49014a4bff",
+        "symbol": "LOOT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x94a42083948d86432246ead625b30d49014a4bff.png"
+    },
+    "0xd7782b99671dd23203ebd4584fc71cf2b3dbb111": {
+        "chainId": 5000,
+        "name": "mShards",
+        "address": "0xd7782b99671dd23203ebd4584fc71cf2b3dbb111",
+        "symbol": "mShards",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xd7782b99671dd23203ebd4584fc71cf2b3dbb111.png"
+    },
+    "0x827c60adabef4419a0b23fe675fd1827b588caac": {
+        "chainId": 5000,
+        "name": "FRENS Item",
+        "address": "0x827c60adabef4419a0b23fe675fd1827b588caac",
+        "symbol": "FRENS",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x827c60adabef4419a0b23fe675fd1827b588caac.png"
+    },
+    "0x217b4382a1de262c0fba97c1b8378904b4a25e4d": {
+        "chainId": 5000,
+        "name": "Mantle Dragon",
+        "address": "0x217b4382a1de262c0fba97c1b8378904b4a25e4d",
+        "symbol": "$MDragon",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x217b4382a1de262c0fba97c1b8378904b4a25e4d.png"
+    },
+    "0x029d924928888697d3f3d169018d9d98d9f0d6b4": {
+        "chainId": 5000,
+        "name": "Muito Token",
+        "address": "0x029d924928888697d3f3d169018d9d98d9f0d6b4",
+        "symbol": "MUTO",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x029d924928888697d3f3d169018d9d98d9f0d6b4.png"
+    },
+    "0xeb466342c4d449bc9f53a865d5cb90586f405215": {
+        "chainId": 5000,
+        "name": "Axelar USDC",
+        "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+        "symbol": "axlUSDC",
+        "decimals": 6,
+        "logoURI": "https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/fantom/tokens/128x128/0x1b6382dbdea11d97f24495c9a90b7c88469134a4.png"
+    },
+    "0x636d4073738c071326aa70c9e5db7c334beb87be": {
+        "chainId": 5000,
+        "name": "Wrapped liquid staked Ether 2.0",
+        "address": "0x636d4073738c071326aa70c9e5db7c334beb87be",
+        "symbol": "wstETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x636d4073738c071326aa70c9e5db7c334beb87be.png"
+    },
+    "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed": {
+        "chainId": 5000,
+        "name": "Mantle Inu",
+        "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
+        "symbol": "MINU",
+        "decimals": 18,
+        "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/minu.png"
+    },
+    "0x779f4e5fb773e17bc8e809f4ef1abb140861159a": {
+        "chainId": 5000,
+        "name": "KTX Community Token",
+        "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
+        "symbol": "KTC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x779f4e5fb773e17bc8e809f4ef1abb140861159a.png"
+    },
+    "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747": {
+        "chainId": 5000,
+        "address": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
+        "decimals": 18,
+        "name": "iZUMi Token",
+        "symbol": "iZi",
+        "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+    },
+    "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d": {
+        "chainId": 5000,
+        "address": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
+        "decimals": 18,
+        "name": "iZUMi Bond USD",
+        "symbol": "iUSD",
+        "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/iusd.png"
+    },
+    "0x6a3b0eb5b57c9a4f5772fc900dae427e65f8c1a5": {
+        "chainId": 5000,
+        "address": "0x6a3b0eb5b57c9a4f5772fc900dae427e65f8c1a5",
+        "decimals": 18,
+        "name": "Cashtree Token",
+        "symbol": "CTT",
+        "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ctt.png"
+    },
+    "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f": {
+        "chainId": 5000,
+        "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+        "decimals": 6,
+        "name": "Axelar Token",
+        "symbol": "AXL",
+        "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/axl.png"
+    },
+    "0x7cbf716aa9a6114281188867572ac87586e4abf2": {
+        "chainId": 5000,
+        "address": "0x7cbf716aa9a6114281188867572ac87586e4abf2",
+        "decimals": 18,
+        "name": "Solv Strategy USD",
+        "symbol": "stUSD",
+        "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/stusd.png"
+    },
+    "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07": {
+        "chainId": 5000,
+        "name": "Joe Token",
+        "symbol": "JOE",
+        "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07/logo.png",
+        "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
+        "decimals": 18
+    },
+    "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9": {
+        "chainId": 5000,
+        "name": "Moe Token",
+        "symbol": "MOE",
+        "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x4515A45337F461A11Ff0FE8aBF3c606AE5dC00c9/logo.png",
+        "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+        "decimals": 18
+    },
+    "0xe449bf38e417b32245dc27552d8de8a733e830d5": {
+        "chainId": 5000,
+        "name": "Theranos Coin",
+        "symbol": "LIZ",
+        "logoURI": "https://butter.xyz/_next/image?url=%2Fassets%2Fcurrencies%2Ficons%2FLIZ.png&w=128&q=100",
+        "address": "0xe449bf38e417b32245dc27552d8de8a733e830d5",
+        "decimals": 18
+    },
+    "0x861a6fc736cbb12ad57477b535b829239c8347d7": {
+        "chainId": 5000,
+        "name": "VelociMantle",
+        "symbol": "MVM",
+        "logoURI": "https://www.velocimeter.xyz/_next/image?url=%2Fimages%2Fmantle%2FMVM.png&w=1920&q=75",
+        "address": "0x861a6fc736cbb12ad57477b535b829239c8347d7",
+        "decimals": 18
+    },
+    "0xc1e0c8c30f251a07a894609616580ad2ceb547f2": {
+        "chainId": 5000,
+        "name": "Cleopatra",
+        "symbol": "CLEO",
+        "logoURI": "https://cleo.exchange/_next/static/media/emission.fbdcf1a8.svg",
+        "address": "0xc1e0c8c30f251a07a894609616580ad2ceb547f2",
+        "decimals": 18
+    },
+    "0x999890b3a00ea4d60da39a65fa4b70bb0bdb61f7": {
+        "chainId": 5000,
+        "name": "Ennead CLEO",
+        "symbol": "neadCleo",
+        "logoURI": "https://cleo.exchange/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FRamsesExchange%2Framses-assets%2Fmain%2Fblockchains%2Fmantle%2Fassets%2F0x999890b3A00EA4d60da39A65FA4B70bb0bdb61f7%2Flogo.png&w=32&q=75",
+        "address": "0x999890b3a00ea4d60da39a65fa4b70bb0bdb61f7",
+        "decimals": 18
+    },
+    "0x8309bc8bb43fb54db02da7d8bf87192355532829": {
+        "chainId": 5000,
+        "name": "Swapsicle SLUSH Token",
+        "symbol": "SLUSH",
+        "address": "0x8309bc8bb43fb54db02da7d8bf87192355532829",
+        "decimals": 18,
+        "logoURI": "https://app.swapsicle.io/_next/image?url=%2Fimages%2Fslush.png&w=32&q=75"
+    },
+    "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79": {
+        "chainId": 5000,
+        "name": "Aurelius USD",
+        "symbol": "aUSD",
+        "address": "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79",
+        "decimals": 18,
+        "logoURI": "https://cleopatra.exchange/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FRamsesExchange%2Framses-assets%2Fmain%2Fblockchains%2Fmantle%2Fassets%2F0xD2B4C9B0d70e3Da1fBDD98f469bD02E77E12FC79%2Flogo.png&w=32&q=75"
+    },
+    "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487": {
+        "chainId": 5000,
+        "name": "Gravita Debt Token",
+        "symbol": "GRAI",
+        "address": "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487",
+        "decimals": 18,
+        "logoURI": "https://cleopatra.exchange/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FRamsesExchange%2Framses-assets%2Fmain%2Fblockchains%2Fmantle%2Fassets%2F0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487%2Flogo.png&w=32&q=75"
+    },
+    "0x2598c30330d5771ae9f983979209486ae26de875": {
+        "chainId": 5000,
+        "name": "Any Inu",
+        "symbol": "AI",
+        "decimals": 18,
+        "address": "0x2598c30330d5771ae9f983979209486ae26de875",
+        "logoURI": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/blockchains/mantle/assets/0x2598c30330D5771AE9F983979209486aE26dE875/logo.png"
+    },
+    "0xa311e47bbefcf158e4224f6c206c1aed32e82531": {
+        "chainId": 5000,
+        "name": "MCLB",
+        "symbol": "MCLB",
+        "address": "0xa311e47bbefcf158e4224f6c206c1aed32e82531",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/blockchains/mantle/assets/0xA311E47BBeFCF158e4224f6C206C1Aed32E82531/logo.png"
+    },
+    "0xfbec518fcce398ddf467451b3e22de8c47f15026": {
+        "chainId": 5000,
+        "name": "WeAllGotMantleIllness",
+        "symbol": "WAGMI",
+        "decimals": 18,
+        "address": "0xfbec518fcce398ddf467451b3e22de8c47f15026",
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/mantle/0xfbec518fcce398ddf467451b3e22de8c47f15026.png?size=lg&key=6c4687"
+    },
+    "0x050a0789b3b5ff6fe33e4a6727da9f4546e94804": {
+        "chainId": 5000,
+        "name": "MEF",
+        "symbol": "MEF",
+        "decimals": 18,
+        "address": "0x050a0789b3b5ff6fe33e4a6727da9f4546e94804",
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/mantle/0x050a0789b3b5ff6fe33e4a6727da9f4546e94804.png?size=lg&key=6c4687"
+    },
+    "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
+        "chainId": 5000,
+        "name": "ENA",
+        "symbol": "ENA",
+        "decimals": 18,
+        "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+        "logoURI": "https://app.ktx.finance/static/media/ic_ena_40.40540bc0398dcc6ac570.svg"
+    },
+    "0xb829b68f57cc546da7e5806a929e53be32a4625d": {
+        "chainId": 5000,
+        "name": "axlETH",
+        "symbol": "Axelar Wrapped ETH",
+        "decimals": 18,
+        "address": "0xb829b68f57cc546da7e5806a929e53be32a4625d",
+        "logoURI": "https://assets.coingecko.com/coins/images/28171/standard/weth-wei_D_3x.png?1696527174"
+    },
+    "0x91824fc3573c5043837f6357b72f60014a710501": {
+        "chainId": 5000,
+        "name": "Aperture",
+        "symbol": "APTR",
+        "logoURI": "https://token-list.mantle.xyz/data/APTR/logo.png",
+        "decimals": 6,
+        "address": "0x91824fc3573c5043837f6357b72f60014a710501"
+    },
+    "0xe265fc71d45fd791c9ebf3ee0a53fbb220eb8f75": {
+        "chainId": 5000,
+        "name": "Curve DAO Token",
+        "symbol": "CRV",
+        "logoURI": "https://token-list.mantle.xyz/data/CRV/logo.svg",
+        "decimals": 18,
+        "address": "0xe265fc71d45fd791c9ebf3ee0a53fbb220eb8f75"
+    },
+    "0x0994206dfe8de6ec6920ff4d779b0d950605fb53": {
+        "chainId": 5000,
+        "name": "Curve.Fi USD Stablecoin",
+        "symbol": "crvUSD",
+        "logoURI": "https://token-list.mantle.xyz/data/crvUSD/logo.svg",
+        "decimals": 18,
+        "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53"
+    },
+    "0xfc88835694b1befe3506595303e37240f9d6a135": {
+        "chainId": 5000,
+        "name": "ImpermaxFinance Token",
+        "symbol": "IBEX",
+        "logoURI": "https://token-list.mantle.xyz/data/IBEX/logo.png",
+        "decimals": 18,
+        "address": "0xfc88835694b1befe3506595303e37240f9d6a135"
+    },
+    "0x2db08783f13c4225a1963b2437f0d459a5bcb4d8": {
+        "chainId": 5000,
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
+        "decimals": 18,
+        "address": "0x2db08783f13c4225a1963b2437f0d459a5bcb4d8"
+    },
+    "0x74262b38609a4155eab4eecfdcd0e339da2cf1b2": {
+        "chainId": 5000,
+        "name": "69",
+        "symbol": "69",
+        "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x74262b38609a4155EaB4eEcFDcD0E339Da2cF1b2/logo.png",
+        "decimals": 18,
+        "address": "0x74262b38609a4155eab4eecfdcd0e339da2cf1b2"
+    },
+    "0x4b7f28397b4294277e7825f224172944f4f5a877": {
+        "chainId": 5000,
+        "name": "IntentX Token",
+        "symbol": "INTX",
+        "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x4b7F28397B4294277E7825f224172944f4f5A877/logo.png",
+        "decimals": 18,
+        "address": "0x4b7f28397b4294277e7825f224172944f4f5a877"
+    }
+}
