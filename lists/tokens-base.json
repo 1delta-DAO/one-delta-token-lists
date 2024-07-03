@@ -349,7 +349,6 @@
             "chainId": 8453,
             "name": "Extra Finance",
             "symbol": "EXTRA",
-            "logoURI": "ipfs://QmbeJDr9Kp946Qic9K1Vkz8GKPCsQt42CVkoKoJAqAeqqk",
             "decimals": 18,
             "address": "0x2dad3a13ef0c6366220f989157009e501e7938f8"
         },
@@ -357,7 +356,6 @@
             "chainId": 8453,
             "name": "Tarot",
             "symbol": "TAROT",
-            "logoURI": "ipfs://QmenPX7UnjGeCrfGjsNUWX6tJj3o6QXXw9co5WL8aNP9UF",
             "decimals": 18,
             "address": "0xf544251d25f3d243a36b07e7e7962a678f952691"
         },
@@ -365,7 +363,7 @@
             "chainId": 8453,
             "name": "MAI",
             "symbol": "MAI",
-            "logoURI": "ipfs://QmW1f5GFZDXN98kBzESE64QrpEbNrB9RmHBUxFkiz6zNef",
+            "logoURI": "https://baseswap.fi/images/tokens/0xbf1aea8670d2528e08334083616dd9c5f3b087ae.png",
             "decimals": 18,
             "address": "0xbf1aea8670d2528e08334083616dd9c5f3b087ae"
         },
@@ -877,7 +875,6 @@
             "chainId": 8453,
             "name": "CIRCLE",
             "symbol": "CIRCLE",
-            "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/circle.png",
             "decimals": 18,
             "address": "0x5babfc2f240bc5de90eb7e19d789412db1dec402"
         },
