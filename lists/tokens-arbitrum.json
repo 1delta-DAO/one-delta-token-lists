@@ -1077,7 +1077,7 @@
             "chainId": 42161,
             "name": "Uniswap",
             "symbol": "UNI",
-            "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+            "logoURI": "https://assets.polygon.technology/tokenAssets/uni.svg",
             "decimals": 18,
             "address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0"
         },
