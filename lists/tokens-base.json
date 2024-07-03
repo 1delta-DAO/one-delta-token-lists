@@ -328,6 +328,590 @@
             "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
             "decimals": 18,
             "address": "0x3bb4445d30ac020a84c1b5a8a2c6248ebc9779d0"
+        },
+        "0x78a087d713be963bf307b18f2ff8122ef9a63ae9": {
+            "chainId": 8453,
+            "name": "BaseSwap",
+            "symbol": "BSWAP",
+            "logoURI": "ipfs://QmaHZa1Zr7Rk8PYvKr3AqGH4G7i3iRNYEMgKnXtZDPdgh6",
+            "decimals": 18,
+            "address": "0x78a087d713be963bf307b18f2ff8122ef9a63ae9"
+        },
+        "0x7f12d13b34f5f4f0a9449c16bcd42f0da47af200": {
+            "chainId": 8453,
+            "name": "Normie",
+            "symbol": "NORMIE",
+            "logoURI": "ipfs://QmZP3MrosDSAkHsaC2jfE777G46P3o8nGt2pgFoNydquEE",
+            "decimals": 9,
+            "address": "0x7f12d13b34f5f4f0a9449c16bcd42f0da47af200"
+        },
+        "0x2dad3a13ef0c6366220f989157009e501e7938f8": {
+            "chainId": 8453,
+            "name": "Extra Finance",
+            "symbol": "EXTRA",
+            "logoURI": "ipfs://QmbeJDr9Kp946Qic9K1Vkz8GKPCsQt42CVkoKoJAqAeqqk",
+            "decimals": 18,
+            "address": "0x2dad3a13ef0c6366220f989157009e501e7938f8"
+        },
+        "0xf544251d25f3d243a36b07e7e7962a678f952691": {
+            "chainId": 8453,
+            "name": "Tarot",
+            "symbol": "TAROT",
+            "logoURI": "ipfs://QmenPX7UnjGeCrfGjsNUWX6tJj3o6QXXw9co5WL8aNP9UF",
+            "decimals": 18,
+            "address": "0xf544251d25f3d243a36b07e7e7962a678f952691"
+        },
+        "0xbf1aea8670d2528e08334083616dd9c5f3b087ae": {
+            "chainId": 8453,
+            "name": "MAI",
+            "symbol": "MAI",
+            "logoURI": "ipfs://QmW1f5GFZDXN98kBzESE64QrpEbNrB9RmHBUxFkiz6zNef",
+            "decimals": 18,
+            "address": "0xbf1aea8670d2528e08334083616dd9c5f3b087ae"
+        },
+        "0x426ee0a5dc852a88683ae1fc1a1fb526d3f260d9": {
+            "chainId": 8453,
+            "name": "Simba Cat",
+            "symbol": "SIMBA",
+            "logoURI": "ipfs://QmT7wwaxvyWKccctWVvh4XL4CLn35ZK4b6vEwKbdFjVk8J",
+            "decimals": 9,
+            "address": "0x426ee0a5dc852a88683ae1fc1a1fb526d3f260d9"
+        },
+        "0x347f500323d51e9350285daf299ddb529009e6ae": {
+            "chainId": 8453,
+            "name": "BLERF",
+            "symbol": "BLERF",
+            "logoURI": "ipfs://QmZ7DL4ir6MxSQESbnshMRWHBZRCoePoUpWFxLkx5XSi6y",
+            "decimals": 18,
+            "address": "0x347f500323d51e9350285daf299ddb529009e6ae"
+        },
+        "0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d": {
+            "chainId": 8453,
+            "name": "Magic Internet Money",
+            "symbol": "MIM",
+            "logoURI": "ipfs://QmaNmAVohHYtCFn8H9Lk393KDyj1rhWLUamGggFXM2eGLT",
+            "decimals": 18,
+            "address": "0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d"
+        },
+        "0x715da73449049d131da72d49fb1e59f5d0d49cf0": {
+            "chainId": 8453,
+            "name": "impactMarket",
+            "symbol": "PACT",
+            "logoURI": "ipfs://QmZSf3fMZa3bkGszKAyauBWAGUXCYxN75qU8guUqWzcZNY",
+            "decimals": 18,
+            "address": "0x715da73449049d131da72d49fb1e59f5d0d49cf0"
+        },
+        "0x24fcfc492c1393274b6bcd568ac9e225bec93584": {
+            "chainId": 8453,
+            "name": "Heroes of Mavia",
+            "symbol": "MAVIA",
+            "logoURI": "ipfs://QmUT6Ss6YGaSDZS9dqWnVAnjXDvWTNkgEC8bB6XghY69tW",
+            "decimals": 18,
+            "address": "0x24fcfc492c1393274b6bcd568ac9e225bec93584"
+        },
+        "0x22a2488fe295047ba13bd8cccdbc8361dbd8cf7c": {
+            "chainId": 8453,
+            "name": "Sonne Finance",
+            "symbol": "SONNE",
+            "logoURI": "ipfs://QmYtbpRyNJaMzVvZnyB4jRaWdBDgZqm5F5Q6ShPDQ9LPPv",
+            "decimals": 18,
+            "address": "0x22a2488fe295047ba13bd8cccdbc8361dbd8cf7c"
+        },
+        "0xdb6e0e5094a25a052ab6845a9f1e486b9a9b3dde": {
+            "chainId": 8453,
+            "name": "Okayeg",
+            "symbol": "OKAYEG",
+            "logoURI": "ipfs://QmcwtmfMcjJksajVUXYEBeAEhUHczrJTcRKVVnHwA4mYX6",
+            "decimals": 18,
+            "address": "0xdb6e0e5094a25a052ab6845a9f1e486b9a9b3dde"
+        },
+        "0x249247ddf61afc83f2fd0968d4e7b0424598eeab": {
+            "chainId": 8453,
+            "name": "Ladybot",
+            "symbol": "$Lady",
+            "logoURI": "ipfs://QmccCqiHEjCCmY6TiRvD2ibTT7gmuLmDTk49LfYqSyB7dm",
+            "decimals": 9,
+            "address": "0x249247ddf61afc83f2fd0968d4e7b0424598eeab"
+        },
+        "0xa835f70dd5f8b4f0023509f8f36c155785758db0": {
+            "chainId": 8453,
+            "name": "Cheeky Dawg",
+            "symbol": "DAWG",
+            "logoURI": "ipfs://QmbRozfknGZL7FtWbJFHESKmMRHaZ4Vnxz9XJypTBYjqnA",
+            "decimals": 18,
+            "address": "0xa835f70dd5f8b4f0023509f8f36c155785758db0"
+        },
+        "0x858c50c3af1913b0e849afdb74617388a1a5340d": {
+            "chainId": 8453,
+            "name": "SubQuery Network",
+            "symbol": "SQT",
+            "logoURI": "ipfs://QmdjHWvgz6SUtKEUv2cFtYoqP1zRJEeC1FK9PVWXT1bQVH",
+            "decimals": 18,
+            "address": "0x858c50c3af1913b0e849afdb74617388a1a5340d"
+        },
+        "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f": {
+            "chainId": 8453,
+            "name": "Axelar",
+            "symbol": "AXL",
+            "logoURI": "ipfs://QmcSRWc1LN1mk4tjy38kyTMqqVx7j4Dmnkw3dsW7efPMTL",
+            "decimals": 6,
+            "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f"
+        },
+        "0xe3b53af74a4bf62ae5511055290838050bf764df": {
+            "chainId": 8453,
+            "name": "Stargate Finance",
+            "symbol": "STG",
+            "logoURI": "ipfs://QmYCe3FShq8cRmJ9njM8eZhoNqkuohMm5hUjd4khBcEB8U",
+            "decimals": 18,
+            "address": "0xe3b53af74a4bf62ae5511055290838050bf764df"
+        },
+        "0xf7c1cefcf7e1dd8161e00099facd3e1db9e528ee": {
+            "chainId": 8453,
+            "name": "TOWER",
+            "symbol": "TOWER",
+            "logoURI": "ipfs://QmUDvzhLFf3t8cjweZgFFWeqjrprqE11ZyFrySNATaTWwy",
+            "decimals": 18,
+            "address": "0xf7c1cefcf7e1dd8161e00099facd3e1db9e528ee"
+        },
+        "0x1dd2d631c92b1acdfcdd51a0f7145a50130050c4": {
+            "chainId": 8453,
+            "name": "AlienBase",
+            "symbol": "ALB",
+            "logoURI": "ipfs://QmY8Qaio6HgGDw3HDCFoe9ATchz9B7UVx2C8aBQYjUXvL2",
+            "decimals": 18,
+            "address": "0x1dd2d631c92b1acdfcdd51a0f7145a50130050c4"
+        },
+        "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c": {
+            "chainId": 8453,
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "logoURI": "ipfs://QmRqLBdZaA2oSr7yWVmwdSyj5HwixHMWRpyKw8QyAQTgRz",
+            "decimals": 18,
+            "address": "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c"
+        },
+        "0x2598c30330d5771ae9f983979209486ae26de875": {
+            "chainId": 8453,
+            "name": "Any Inu",
+            "symbol": "AI",
+            "logoURI": "ipfs://QmVurySKQi4AcZg3wUXXaudowWcTve6vKMbTHpQU6WExat",
+            "decimals": 18,
+            "address": "0x2598c30330d5771ae9f983979209486ae26de875"
+        },
+        "0xf34e0cff046e154cafcae502c7541b9e5fd8c249": {
+            "chainId": 8453,
+            "name": "Thales",
+            "symbol": "THALES",
+            "logoURI": "ipfs://QmeGZ9fRMeNJP9MnMNDQSBGdQzAJL5GUAWWqTd254NUuQJ",
+            "decimals": 18,
+            "address": "0xf34e0cff046e154cafcae502c7541b9e5fd8c249"
+        },
+        "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979": {
+            "chainId": 8453,
+            "name": "fBomb",
+            "symbol": "fBOMB",
+            "logoURI": "ipfs://QmaZGK72QKQJDmkfxA4CTmche9BTmgBgQiViZ3rhyxkZ2n",
+            "decimals": 18,
+            "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979"
+        },
+        "0x9a86980d3625b4a6e69d8a4606d51cbc019e2002": {
+            "chainId": 8453,
+            "name": "FOMO BULL CLUB",
+            "symbol": "FOMO",
+            "logoURI": "ipfs://QmRLMuUiarWfqxUgQGLwerYvmeKWGqPobqLUuR2u8WiYDw",
+            "decimals": 18,
+            "address": "0x9a86980d3625b4a6e69d8a4606d51cbc019e2002"
+        },
+        "0x356177b452dbae18b5a4b43b7b5324bfbae235be": {
+            "chainId": 8453,
+            "name": "DeFido",
+            "symbol": "DFD",
+            "logoURI": "ipfs://QmdG6L1HSvrLHgYMp62iMaY5EYtxKaehpWwZfuHEfkenov",
+            "decimals": 18,
+            "address": "0x356177b452dbae18b5a4b43b7b5324bfbae235be"
+        },
+        "0xfd4330b0312fdeec6d4225075b82e00493ff2e3f": {
+            "chainId": 8453,
+            "name": "SmarDex",
+            "symbol": "SDEX",
+            "logoURI": "ipfs://QmfND5e84LhVzuywVPxyxpbpUAH26HMCgRbk8fywmZyFhU",
+            "decimals": 18,
+            "address": "0xfd4330b0312fdeec6d4225075b82e00493ff2e3f"
+        },
+        "0x3055913c90fcc1a6ce9a358911721eeb942013a1": {
+            "chainId": 8453,
+            "name": "PancakeSwap",
+            "symbol": "CAKE",
+            "logoURI": "ipfs://Qmci7V6yNrA1wqMbFapLHRMMM7dpdKz2GVCiSypbDUctXf",
+            "decimals": 18,
+            "address": "0x3055913c90fcc1a6ce9a358911721eeb942013a1"
+        },
+        "0x4e496c0256fb9d4cc7ba2fdf931bc9cbb7731660": {
+            "chainId": 8453,
+            "name": "Boge",
+            "symbol": "BOGE",
+            "logoURI": "ipfs://Qmck9nSTWNog815qFMYtaFLSyJRpPLFtLLBDXBtTgSuBQ6",
+            "decimals": 9,
+            "address": "0x4e496c0256fb9d4cc7ba2fdf931bc9cbb7731660"
+        },
+        "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e": {
+            "chainId": 8453,
+            "name": "Osaka Protocol",
+            "symbol": "OSAK",
+            "logoURI": "ipfs://QmUng1scXVJSCH1MpqK4RanCsW1aXYew8KUZphtj3WUpah",
+            "decimals": 18,
+            "address": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e"
+        },
+        "0x64b88c73a5dfa78d1713fe1b4c69a22d7e0faaa7": {
+            "chainId": 8453,
+            "name": "Maverick Protocol",
+            "symbol": "MAV",
+            "logoURI": "ipfs://QmYkDjrskzi8aUwXCMgy7LhQdUttqi3y9yzZjxG5Zx238t",
+            "decimals": 18,
+            "address": "0x64b88c73a5dfa78d1713fe1b4c69a22d7e0faaa7"
+        },
+        "0xafb5d4d474693e68df500c9c682e6a2841f9661a": {
+            "chainId": 8453,
+            "name": "Bloomer",
+            "symbol": "BLOOM",
+            "logoURI": "ipfs://QmZgcjqJDSvFTNNfLiokk8EC13arDF15cui4kRUA3sT7Nr",
+            "decimals": 18,
+            "address": "0xafb5d4d474693e68df500c9c682e6a2841f9661a"
+        },
+        "0xd5046b976188eb40f6de40fb527f89c05b323385": {
+            "chainId": 8453,
+            "name": "Base X",
+            "symbol": "BSX",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a92cc10e30462a2ab4585138edf89872c5722ef5/images/bsx.png",
+            "decimals": 18,
+            "address": "0xd5046b976188eb40f6de40fb527f89c05b323385"
+        },
+        "0xe4750593d1fc8e74b31549212899a72162f315fa": {
+            "chainId": 8453,
+            "name": "BaseSwap Escrowed Token",
+            "symbol": "xBSX",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a92cc10e30462a2ab4585138edf89872c5722ef5/images/xbsx.png",
+            "decimals": 18,
+            "address": "0xe4750593d1fc8e74b31549212899a72162f315fa"
+        },
+        "0x4ed4e862860bed51a9570b96d89af5e1b0efefed": {
+            "chainId": 8453,
+            "name": "Degen",
+            "symbol": "DEGEN",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/degen.png",
+            "decimals": 18,
+            "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed"
+        },
+        "0x8901cb2e82cc95c01e42206f8d1f417fe53e7af0": {
+            "chainId": 8453,
+            "name": "Yield Farming Index",
+            "symbol": "YFX",
+            "logoURI": "https://assets.coingecko.com/coins/images/29399/standard/l1v2_transparent.png?1696528349",
+            "decimals": 18,
+            "address": "0x8901cb2e82cc95c01e42206f8d1f417fe53e7af0"
+        },
+        "0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105": {
+            "chainId": 8453,
+            "name": "Fren Pet",
+            "symbol": "FREN PET",
+            "logoURI": "https://assets.coingecko.com/coins/images/33022/standard/token.png?1700274697",
+            "decimals": 18,
+            "address": "0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105"
+        },
+        "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4": {
+            "chainId": 8453,
+            "name": "Toshi",
+            "symbol": "TOSHI",
+            "logoURI": "https://assets.coingecko.com/coins/images/31126/standard/2023-08-11_13.21.24.png?1697025145",
+            "decimals": 18,
+            "address": "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4"
+        },
+        "0xf6e932ca12afa26665dc4dde7e27be02a7c02e50": {
+            "chainId": 8453,
+            "name": "Mochi",
+            "symbol": "MOCHI",
+            "logoURI": "https://assets.coingecko.com/coins/images/33083/standard/mochi200.png?1703024216",
+            "decimals": 18,
+            "address": "0xf6e932ca12afa26665dc4dde7e27be02a7c02e50"
+        },
+        "0xa3d1a8deb97b111454b294e2324efad13a9d8396": {
+            "chainId": 8453,
+            "name": "Overnight Finance",
+            "symbol": "OVN",
+            "logoURI": "https://assets.coingecko.com/coins/images/31970/standard/OVN.png?1696959174",
+            "decimals": 18,
+            "address": "0xa3d1a8deb97b111454b294e2324efad13a9d8396"
+        },
+        "0x7bc401227777f173ff871993b198a8632741b9bb": {
+            "chainId": 8453,
+            "name": "Detto Finance",
+            "symbol": "DETO",
+            "logoURI": "https://assets.coingecko.com/coins/images/33386/standard/200_200.png?1701673603",
+            "decimals": 18,
+            "address": "0x7bc401227777f173ff871993b198a8632741b9bb"
+        },
+        "0x546d239032b24eceee0cb05c92fc39090846adc7": {
+            "chainId": 8453,
+            "name": "SEED",
+            "symbol": "SEED",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/seed.png",
+            "decimals": 18,
+            "address": "0x546d239032b24eceee0cb05c92fc39090846adc7"
+        },
+        "0xcd239e01c36d3079c0daef355c61cff591c40db1": {
+            "chainId": 8453,
+            "name": "GMD Protocol",
+            "symbol": "GMD",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/gmd.png",
+            "decimals": 18,
+            "address": "0xcd239e01c36d3079c0daef355c61cff591c40db1"
+        },
+        "0xfb825e93822dd971ebdfdb2180a751958dbd5e16": {
+            "chainId": 8453,
+            "name": "GND Protocol",
+            "symbol": "GND",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/gnd.png",
+            "decimals": 18,
+            "address": "0xfb825e93822dd971ebdfdb2180a751958dbd5e16"
+        },
+        "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad": {
+            "chainId": 8453,
+            "name": "Axelar Wrapped Bitcoin",
+            "symbol": "axlWBTC",
+            "logoURI": "https://assets.coingecko.com/coins/images/28173/standard/wbtc-satoshi_D_3x.png?1696986732",
+            "decimals": 8,
+            "address": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad"
+        },
+        "0x37defbc399e5737d53dfb5533d9954572f5b19bf": {
+            "chainId": 8453,
+            "name": "BlazeBot",
+            "symbol": "BLAZE",
+            "logoURI": "https://assets.coingecko.com/coins/images/31279/standard/blazebot.jpeg?1696530102",
+            "decimals": 9,
+            "address": "0x37defbc399e5737d53dfb5533d9954572f5b19bf"
+        },
+        "0x6b4712ae9797c199edd44f897ca09bc57628a1cf": {
+            "chainId": 8453,
+            "name": "Unidex Exchange",
+            "symbol": "UNIDX",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/unidx.png",
+            "decimals": 18,
+            "address": "0x6b4712ae9797c199edd44f897ca09bc57628a1cf"
+        },
+        "0x0a074378461fb7ed3300ea638c6cc38246db4434": {
+            "chainId": 8453,
+            "name": "El Dorado Exchange",
+            "symbol": "EDE",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/eldorado.svg",
+            "decimals": 18,
+            "address": "0x0a074378461fb7ed3300ea638c6cc38246db4434"
+        },
+        "0xb88a5ac00917a02d82c7cd6cebd73e2852d43574": {
+            "chainId": 8453,
+            "name": "SweepCoin",
+            "symbol": "SWEEP",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/sweep.png",
+            "decimals": 18,
+            "address": "0xb88a5ac00917a02d82c7cd6cebd73e2852d43574"
+        },
+        "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376": {
+            "chainId": 8453,
+            "name": "USD+",
+            "symbol": "USD+",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usd%2B.png",
+            "decimals": 6,
+            "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376"
+        },
+        "0x65a2508c429a6078a7bc2f7df81ab575bd9d9275": {
+            "chainId": 8453,
+            "name": "DAI+",
+            "symbol": "DAI+",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/dai%2B.png",
+            "decimals": 18,
+            "address": "0x65a2508c429a6078a7bc2f7df81ab575bd9d9275"
+        },
+        "0x4788de271f50ea6f5d5d2a5072b8d3c61d650326": {
+            "chainId": 8453,
+            "name": "Basin Protocol",
+            "symbol": "BASIN",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/basin.png",
+            "decimals": 18,
+            "address": "0x4788de271f50ea6f5d5d2a5072b8d3c61d650326"
+        },
+        "0xeb466342c4d449bc9f53a865d5cb90586f405215": {
+            "chainId": 8453,
+            "name": "axlUSDC",
+            "symbol": "axlUSDC",
+            "logoURI": "https://assets.coingecko.com/coins/images/26476/standard/uausdc_D_3x.png?1696525548",
+            "decimals": 6,
+            "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+        },
+        "0x58ed4fd0c3d930b674ba50a293f03ef6cd7de7a3": {
+            "chainId": 8453,
+            "name": "Arbidex",
+            "symbol": "ARX",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/arbidex.png",
+            "decimals": 18,
+            "address": "0x58ed4fd0c3d930b674ba50a293f03ef6cd7de7a3"
+        },
+        "0x1a9132ee02d7e98e51b7389d2e7bb537184867aa": {
+            "chainId": 8453,
+            "name": "BullRun",
+            "symbol": "BULLRUN",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/bullrun.png",
+            "decimals": 18,
+            "address": "0x1a9132ee02d7e98e51b7389d2e7bb537184867aa"
+        },
+        "0x23432452b720c80553458496d4d9d7c5003280d0": {
+            "chainId": 8453,
+            "name": "Frax Share",
+            "symbol": "FXS",
+            "logoURI": "https://assets.coingecko.com/coins/images/13423/standard/Frax_Shares_icon.png?1696513183",
+            "decimals": 18,
+            "address": "0x23432452b720c80553458496d4d9d7c5003280d0"
+        },
+        "0xe4796ccb6bb5de2290c417ac337f2b66ca2e770e": {
+            "chainId": 8453,
+            "name": "Staked Frax",
+            "symbol": "sFRAX",
+            "logoURI": "https://assets.coingecko.com/coins/images/35383/standard/sfrax.png?1708445569",
+            "decimals": 18,
+            "address": "0xe4796ccb6bb5de2290c417ac337f2b66ca2e770e"
+        },
+        "0x1f55a02a049033e3419a8e2975cf3f572f4e6e9a": {
+            "chainId": 8453,
+            "name": "Staked Frax Ether",
+            "symbol": "sfrxETH",
+            "logoURI": "https://assets.coingecko.com/coins/images/28285/standard/sfrxETH_icon.png?1696527285",
+            "decimals": 18,
+            "address": "0x1f55a02a049033e3419a8e2975cf3f572f4e6e9a"
+        },
+        "0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc": {
+            "chainId": 8453,
+            "name": "The Void",
+            "symbol": "VOID",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/void.png",
+            "decimals": 18,
+            "address": "0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc"
+        },
+        "0xccc7e9b7a1e2fa193683f23e23c495ecde3c4db8": {
+            "chainId": 8453,
+            "name": "Cortana",
+            "symbol": "CORTANA",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/cortana.png",
+            "decimals": 9,
+            "address": "0xccc7e9b7a1e2fa193683f23e23c495ecde3c4db8"
+        },
+        "0xc8a256627f9a07c2c7c5706d400d0856cb8aca45": {
+            "chainId": 8453,
+            "name": "Bumpies Brawl Quest Token",
+            "symbol": "BBQ",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/bumpies.png",
+            "decimals": 18,
+            "address": "0xc8a256627f9a07c2c7c5706d400d0856cb8aca45"
+        },
+        "0xa23dd9379f2e12d9ce76ec738b9f5e520d1d861c": {
+            "chainId": 8453,
+            "name": "US Debt",
+            "symbol": "USDEBT",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usdebt.png",
+            "decimals": 18,
+            "address": "0xa23dd9379f2e12d9ce76ec738b9f5e520d1d861c"
+        },
+        "0xc32a4e2b86afe970d865d6581ccedaadedb6f72f": {
+            "chainId": 8453,
+            "name": "Bald Wif Hat",
+            "symbol": "BIF",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/baldwifhat.png",
+            "decimals": 8,
+            "address": "0xc32a4e2b86afe970d865d6581ccedaadedb6f72f"
+        },
+        "0xc702b80a1bebac118cab22ce6f2978ef59563b3f": {
+            "chainId": 8453,
+            "name": "RAFL",
+            "symbol": "RAFL",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/rafl.png",
+            "decimals": 8,
+            "address": "0xc702b80a1bebac118cab22ce6f2978ef59563b3f"
+        },
+        "0x4379c13143eb91148ff9282cfb2f93536687a45b": {
+            "chainId": 8453,
+            "name": "Reach",
+            "symbol": "REACH",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/reach.png",
+            "decimals": 18,
+            "address": "0x4379c13143eb91148ff9282cfb2f93536687a45b"
+        },
+        "0xfad8cb754230dbfd249db0e8eccb5142dd675a0d": {
+            "chainId": 8453,
+            "name": "AeroBud",
+            "symbol": "AEROBUD",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/aerobud.jpeg",
+            "decimals": 18,
+            "address": "0xfad8cb754230dbfd249db0e8eccb5142dd675a0d"
+        },
+        "0x4da78059d97f155e18b37765e2e042270f4e0fc4": {
+            "chainId": 8453,
+            "name": "Wuffi",
+            "symbol": "WUF",
+            "logoURI": "https://i.imgur.com/RZDxaaZ.png",
+            "decimals": 4,
+            "address": "0x4da78059d97f155e18b37765e2e042270f4e0fc4"
+        },
+        "0x309efc182e7044cd8ddd84712f60827660756c72": {
+            "chainId": 8453,
+            "name": "AIPEPE",
+            "symbol": "AIPEPE",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/aipepe.png",
+            "decimals": 18,
+            "address": "0x309efc182e7044cd8ddd84712f60827660756c72"
+        },
+        "0x6921b130d297cc43754afba22e5eac0fbf8db75b": {
+            "chainId": 8453,
+            "name": "doginme",
+            "symbol": "doginme",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/doginme.png",
+            "decimals": 18,
+            "address": "0x6921b130d297cc43754afba22e5eac0fbf8db75b"
+        },
+        "0x5babfc2f240bc5de90eb7e19d789412db1dec402": {
+            "chainId": 8453,
+            "name": "CIRCLE",
+            "symbol": "CIRCLE",
+            "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/circle.png",
+            "decimals": 18,
+            "address": "0x5babfc2f240bc5de90eb7e19d789412db1dec402"
+        },
+        "0xafb89a09d82fbde58f18ac6437b3fc81724e4df6": {
+            "chainId": 8453,
+            "name": "The Doge NFT",
+            "symbol": "DOG",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/thedognft.png",
+            "decimals": 18,
+            "address": "0xafb89a09d82fbde58f18ac6437b3fc81724e4df6"
+        },
+        "0x532f27101965dd16442e59d40670faf5ebb142e4": {
+            "chainId": 8453,
+            "name": "Brett",
+            "symbol": "BRETT",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/brett.png",
+            "decimals": 18,
+            "address": "0x532f27101965dd16442e59d40670faf5ebb142e4"
+        },
+        "0x9ee4ed687d1ae6fc3a7a427add25c6356876af6c": {
+            "chainId": 8453,
+            "name": "FINK",
+            "symbol": "FINK",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/fink.jpg",
+            "decimals": 18,
+            "address": "0x9ee4ed687d1ae6fc3a7a427add25c6356876af6c"
+        },
+        "0x90678c02823b21772fa7e91b27ee70490257567b": {
+            "chainId": 8453,
+            "name": "Altitude",
+            "symbol": "Altitude",
+            "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/altitude.png",
+            "decimals": 18,
+            "address": "0x90678c02823b21772fa7e91b27ee70490257567b"
         }
     },
     "mainTokens": [
@@ -373,5 +957,5 @@
         "0x6985884c4392d348587b19cb9eaaf157f13271cd",
         "0x3bb4445d30ac020a84c1b5a8a2c6248ebc9779d0"
     ],
-    "version": "1"
+    "version": "2"
 }
