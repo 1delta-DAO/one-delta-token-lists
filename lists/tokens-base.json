@@ -333,7 +333,7 @@
             "chainId": 8453,
             "name": "BaseSwap",
             "symbol": "BSWAP",
-            "logoURI": "ipfs://QmaHZa1Zr7Rk8PYvKr3AqGH4G7i3iRNYEMgKnXtZDPdgh6",
+            "logoURI": "https://baseswap.fi/images/tokens/0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9.png",
             "decimals": 18,
             "address": "0x78a087d713be963bf307b18f2ff8122ef9a63ae9"
         },
@@ -549,7 +549,7 @@
             "chainId": 8453,
             "name": "Boge",
             "symbol": "BOGE",
-            "logoURI": "ipfs://Qmck9nSTWNog815qFMYtaFLSyJRpPLFtLLBDXBtTgSuBQ6",
+            "logoURI": "https://baseswap.fi/images/tokens/0x4e496c0256fb9d4cc7ba2fdf931bc9cbb7731660.png",
             "decimals": 9,
             "address": "0x4e496c0256fb9d4cc7ba2fdf931bc9cbb7731660"
         },
