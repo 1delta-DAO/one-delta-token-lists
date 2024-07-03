@@ -389,7 +389,7 @@
             "chainId": 8453,
             "name": "Magic Internet Money",
             "symbol": "MIM",
-            "logoURI": "ipfs://QmaNmAVohHYtCFn8H9Lk393KDyj1rhWLUamGggFXM2eGLT",
+            "logoURI": "https://baseswap.fi/images/tokens/0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d.png",
             "decimals": 18,
             "address": "0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d"
         },
