@@ -2677,7 +2677,7 @@
             "chainId": 42161,
             "name": "Camelot GRAIL",
             "symbol": "GRAIL",
-            "logoURI": "BASE_URL/assets/grail.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/grail.svg",
             "decimals": 18,
             "address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8"
         },
@@ -2685,7 +2685,7 @@
             "chainId": 42161,
             "name": "Camelot xGRAIL",
             "symbol": "xGRAIL",
-            "logoURI": "BASE_URL/assets/xgrail.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/xgrail.svg",
             "decimals": 18,
             "address": "0x3caae25ee616f2c8e13c74da0813402eae3f496b"
         },
@@ -2693,7 +2693,7 @@
             "chainId": 42161,
             "name": "Grail Inu",
             "symbol": "iGRAIL",
-            "logoURI": "BASE_URL/assets/igrail.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/igrail.png",
             "decimals": 18,
             "address": "0x2ef354c71caab6dc7469bb3c99642878ccd1143f"
         },
@@ -2701,7 +2701,7 @@
             "chainId": 42161,
             "name": "Buffer Token",
             "symbol": "BFR",
-            "logoURI": "BASE_URL/assets/bfr.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/bfr.svg",
             "decimals": 18,
             "address": "0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d"
         },
@@ -2709,7 +2709,7 @@
             "chainId": 42161,
             "name": "Bonsai",
             "symbol": "Bonsai",
-            "logoURI": "BASE_URL/assets/bonsai.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/bonsai.png",
             "decimals": 18,
             "address": "0x79ead7a012d97ed8deece279f9bc39e264d7eef9"
         },
@@ -2717,7 +2717,7 @@
             "chainId": 42161,
             "name": "Compounded Marinated UMAMI",
             "symbol": "cmUMAMI",
-            "logoURI": "BASE_URL/assets/cmumami.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/cmumami.svg",
             "decimals": 9,
             "address": "0x1922c36f3bc762ca300b4a46bb2102f84b1684ab"
         },
@@ -2725,7 +2725,7 @@
             "chainId": 42161,
             "name": "Jones DAO",
             "symbol": "JONES",
-            "logoURI": "BASE_URL/assets/jones.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/jones.svg",
             "decimals": 18,
             "address": "0x10393c20975cf177a3513071bc110f7962cd67da"
         },
@@ -2733,7 +2733,7 @@
             "chainId": 42161,
             "name": "Magic Internet Money",
             "symbol": "MIM",
-            "logoURI": "BASE_URL/assets/mim.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/mim.svg",
             "decimals": 18,
             "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a"
         },
@@ -2741,7 +2741,7 @@
             "chainId": 42161,
             "name": "Premia",
             "symbol": "PREMIA",
-            "logoURI": "BASE_URL/assets/premia.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/premia.jpg",
             "decimals": 18,
             "address": "0x51fc0f6660482ea73330e414efd7808811a57fa2"
         },
@@ -2749,7 +2749,7 @@
             "chainId": 42161,
             "name": "Sperax",
             "symbol": "SPA",
-            "logoURI": "BASE_URL/assets/spa.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/spa.svg",
             "decimals": 18,
             "address": "0x5575552988a3a80504bbaeb1311674fcfd40ad4b"
         },
@@ -2757,7 +2757,7 @@
             "chainId": 42161,
             "name": "Umami",
             "symbol": "UMAMI",
-            "logoURI": "BASE_URL/assets/umami.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/umami.svg",
             "decimals": 9,
             "address": "0x1622bf67e6e5747b81866fe0b85178a93c7f86e3"
         },
@@ -2765,7 +2765,7 @@
             "chainId": 42161,
             "name": "Sperax USD",
             "symbol": "USDs",
-            "logoURI": "BASE_URL/assets/usds.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/usds.svg",
             "decimals": 18,
             "address": "0xd74f5255d557944cf7dd0e45ff521520002d5748"
         },
@@ -2773,7 +2773,7 @@
             "chainId": 42161,
             "name": "Excalibur legacy token",
             "symbol": "lEXC",
-            "logoURI": "BASE_URL/assets/lexc.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/lexc.svg",
             "decimals": 18,
             "address": "0x83bbc9c4c436bd7a4b4a1c5d42b00caae113c3b5"
         },
@@ -2781,7 +2781,7 @@
             "chainId": 42161,
             "name": "Modular",
             "symbol": "MOD",
-            "logoURI": "BASE_URL/assets/mod.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/mod.jpg",
             "decimals": 18,
             "address": "0x244ae62439c1ef3187f244d8604ac2c391ef2b53"
         },
@@ -2789,7 +2789,7 @@
             "chainId": 42161,
             "name": "Neutra token",
             "symbol": "NEU",
-            "logoURI": "BASE_URL/assets/neu.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/neu.svg",
             "decimals": 18,
             "address": "0x6609be1547166d1c4605f3a243fdcff467e600c3"
         },
@@ -2797,7 +2797,7 @@
             "chainId": 42161,
             "name": "Vela",
             "symbol": "VELA",
-            "logoURI": "BASE_URL/assets/vela.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/vela.png",
             "decimals": 18,
             "address": "0x088cd8f5ef3652623c22d48b1605dcfe860cd704"
         },
@@ -2805,7 +2805,7 @@
             "chainId": 42161,
             "name": "Jones USDC",
             "symbol": "jUSDC",
-            "logoURI": "BASE_URL/assets/jusdc.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/jusdc.svg",
             "decimals": 18,
             "address": "0xe66998533a1992ece9ea99cdf47686f4fc8458e0"
         },
@@ -2813,7 +2813,7 @@
             "chainId": 42161,
             "name": "Jones GLP",
             "symbol": "jGLP",
-            "logoURI": "BASE_URL/assets/jglp.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/jglp.svg",
             "decimals": 18,
             "address": "0x7241bc8035b65865156ddb5edef3eb32874a3af6"
         },
@@ -2821,7 +2821,7 @@
             "chainId": 42161,
             "name": "Relay Token",
             "symbol": "RELAY",
-            "logoURI": "BASE_URL/assets/relay.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/relay.png",
             "decimals": 18,
             "address": "0x1426cf37caa89628c4da2864e40cf75e6d66ac6b"
         },
@@ -2829,7 +2829,7 @@
             "chainId": 42161,
             "name": "Pirex GMX",
             "symbol": "pxGMX",
-            "logoURI": "BASE_URL/assets/pxgmx.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/pxgmx.png",
             "decimals": 18,
             "address": "0x9a592b4539e22eeb8b2a3df679d572c7712ef999"
         },
@@ -2837,7 +2837,7 @@
             "chainId": 42161,
             "name": "Plutus",
             "symbol": "PLS",
-            "logoURI": "BASE_URL/assets/pls.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/pls.svg",
             "decimals": 18,
             "address": "0x51318b7d00db7acc4026c88c3952b66278b6a67f"
         },
@@ -2845,7 +2845,7 @@
             "chainId": 42161,
             "name": "Plutus DPX",
             "symbol": "plsDPX",
-            "logoURI": "BASE_URL/assets/plsdpx.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/plsdpx.svg",
             "decimals": 18,
             "address": "0xf236ea74b515ef96a9898f5a4ed4aa591f253ce1"
         },
@@ -2853,7 +2853,7 @@
             "chainId": 42161,
             "name": "Pendle",
             "symbol": "PENDLE",
-            "logoURI": "BASE_URL/assets/pendle.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/pendle.png",
             "decimals": 18,
             "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8"
         },
@@ -2861,7 +2861,7 @@
             "chainId": 42161,
             "name": "Arbitrove Governance Token",
             "symbol": "TROVE",
-            "logoURI": "BASE_URL/assets/trove.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/trove.jpg",
             "decimals": 18,
             "address": "0x982239d38af50b0168da33346d85fb12929c4c07"
         },
@@ -2869,7 +2869,7 @@
             "chainId": 42161,
             "name": "Factor",
             "symbol": "FCTR",
-            "logoURI": "BASE_URL/assets/fctr.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/fctr.jpg",
             "decimals": 18,
             "address": "0x6dd963c510c2d2f09d5eddb48ede45fed063eb36"
         },
@@ -2877,7 +2877,7 @@
             "chainId": 42161,
             "name": "Volta Protocol Token",
             "symbol": "VOLTA",
-            "logoURI": "BASE_URL/assets/volta.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/volta.svg",
             "decimals": 18,
             "address": "0x417a1afd44250314bffb11ff68e989775e990ab6"
         },
@@ -2885,7 +2885,7 @@
             "chainId": 42161,
             "name": "GenomesDAO (deprecated)",
             "symbol": "OLD-GENE",
-            "logoURI": "BASE_URL/assets/gene.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/gene.svg",
             "decimals": 18,
             "address": "0x59a729658e9245b0cf1f8cb9fb37945d2b06ea27"
         },
@@ -2893,7 +2893,7 @@
             "chainId": 42161,
             "name": "GenomesDAO Governance (deprecated)",
             "symbol": "OLD-GNOME",
-            "logoURI": "BASE_URL/assets/gnome.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/gnome.svg",
             "decimals": 18,
             "address": "0x7698ac5d15bb3ba7185adcbff32a80ebd9d0709b"
         },
@@ -2901,7 +2901,7 @@
             "chainId": 42161,
             "name": "Thales DAO Token",
             "symbol": "THALES",
-            "logoURI": "BASE_URL/assets/thales.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/thales.png",
             "decimals": 18,
             "address": "0xe85b662fe97e8562f4099d8a1d5a92d4b453bf30"
         },
@@ -2909,7 +2909,7 @@
             "chainId": 42161,
             "name": "EDE",
             "symbol": "EDE",
-            "logoURI": "BASE_URL/assets/ede.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/ede.jpg",
             "decimals": 18,
             "address": "0xccd3891c1452b7cb0e4632774b9365dc4ee24f20"
         },
@@ -2917,7 +2917,7 @@
             "chainId": 42161,
             "name": "WINR",
             "symbol": "WINR",
-            "logoURI": "BASE_URL/assets/winr.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/winr.svg",
             "decimals": 18,
             "address": "0xd77b108d4f6cefaa0cae9506a934e825becca46e"
         },
@@ -2925,7 +2925,7 @@
             "chainId": 42161,
             "name": "Vested WINR",
             "symbol": "vWINR",
-            "logoURI": "BASE_URL/assets/vwinr.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/vwinr.png",
             "decimals": 18,
             "address": "0x63097e97ba51b64547cf1f4ba154495d7af74582"
         },
@@ -2933,7 +2933,7 @@
             "chainId": 42161,
             "name": "Fluid USDC",
             "symbol": "fUSDC",
-            "logoURI": "BASE_URL/assets/fusdc.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/fusdc.png",
             "decimals": 6,
             "address": "0x4cfa50b7ce747e2d61724fcac57f24b748ff2b2a"
         },
@@ -2941,7 +2941,7 @@
             "chainId": 42161,
             "name": "Lodestar",
             "symbol": "LODE",
-            "logoURI": "BASE_URL/assets/lode.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/lode.svg",
             "decimals": 18,
             "address": "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db"
         },
@@ -2949,7 +2949,7 @@
             "chainId": 42161,
             "name": "Impossible Finance Launchpad",
             "symbol": "IDIA",
-            "logoURI": "BASE_URL/assets/idia.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/idia.svg",
             "decimals": 18,
             "address": "0xd91903d548f19c0fc0a6b9ed09d2f72b4dfe7144"
         },
@@ -2957,7 +2957,7 @@
             "chainId": 42161,
             "name": "Perpy token",
             "symbol": "PRY",
-            "logoURI": "BASE_URL/assets/pry.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/pry.svg",
             "decimals": 18,
             "address": "0x1824a51c106efc27d35a74efb56d9bf54ddb22d4"
         },
@@ -2965,7 +2965,7 @@
             "chainId": 42161,
             "name": "Spool DAO Token",
             "symbol": "SPOOL",
-            "logoURI": "BASE_URL/assets/spool.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/spool.png",
             "decimals": 18,
             "address": "0xeca14f81085e5b8d1c9d32dcb596681574723561"
         },
@@ -2973,7 +2973,7 @@
             "chainId": 42161,
             "name": "Sector",
             "symbol": "SECT",
-            "logoURI": "BASE_URL/assets/sector.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/sector.svg",
             "decimals": 18,
             "address": "0x0b63c61bba4a876a6eb8b5e596800f7649a9b71e"
         },
@@ -2981,7 +2981,7 @@
             "chainId": 42161,
             "name": "Wombat Token",
             "symbol": "WOM",
-            "logoURI": "BASE_URL/assets/wom.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/wom.svg",
             "decimals": 18,
             "address": "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96"
         },
@@ -2989,7 +2989,7 @@
             "chainId": 42161,
             "name": "Wombex Token",
             "symbol": "WMX",
-            "logoURI": "BASE_URL/assets/wmx.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/wmx.png",
             "decimals": 18,
             "address": "0x5190f06eacefa2c552dc6bd5e763b81c73293293"
         },
@@ -2997,7 +2997,7 @@
             "chainId": 42161,
             "name": "Metavault DAO",
             "symbol": "MVD",
-            "logoURI": "BASE_URL/assets/mvd.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/mvd.svg",
             "decimals": 9,
             "address": "0x15a808ed3846d25e88ae868de79f1bcb1ac382b5"
         },
@@ -3005,7 +3005,7 @@
             "chainId": 42161,
             "name": "MZR",
             "symbol": "MZR",
-            "logoURI": "BASE_URL/assets/mzr.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/mzr.svg",
             "decimals": 18,
             "address": "0xbbea044f9e7c0520195e49ad1e561572e7e1b948"
         },
@@ -3013,7 +3013,7 @@
             "chainId": 42161,
             "name": "LEX",
             "symbol": "LEX",
-            "logoURI": "BASE_URL/assets/lex.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/lex.svg",
             "decimals": 18,
             "address": "0x6bb7a17acc227fd1f6781d1eedeae01b42047ee0"
         },
@@ -3021,7 +3021,7 @@
             "chainId": 42161,
             "name": "AIDOGE",
             "symbol": "AIDOGE",
-            "logoURI": "BASE_URL/assets/aidoge.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/aidoge.svg",
             "decimals": 6,
             "address": "0x09e18590e8f76b6cf471b3cd75fe1a1a9d2b2c2b"
         },
@@ -3029,7 +3029,7 @@
             "chainId": 42161,
             "name": "AICODE",
             "symbol": "AICODE",
-            "logoURI": "BASE_URL/assets/aicode.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/aicode.svg",
             "decimals": 18,
             "address": "0x7c8a1a80fdd00c9cccd6ebd573e9ecb49bfa2a59"
         },
@@ -3037,7 +3037,7 @@
             "chainId": 42161,
             "name": "Plutus JONES",
             "symbol": "plsJONES",
-            "logoURI": "BASE_URL/assets/plsjones.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/plsjones.svg",
             "decimals": 18,
             "address": "0xe7f6c3c1f0018e4c08acc52965e5cbff99e34a44"
         },
@@ -3045,7 +3045,7 @@
             "chainId": 42161,
             "name": "CHOKE",
             "symbol": "CHOKE",
-            "logoURI": "BASE_URL/assets/choke.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/choke.png",
             "decimals": 18,
             "address": "0x6fc2680d8ad8e8312191441b4eca9eff8d06b45a"
         },
@@ -3053,7 +3053,7 @@
             "chainId": 42161,
             "name": "tCHOKE",
             "symbol": "tCHOKE",
-            "logoURI": "BASE_URL/assets/tchoke.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/tchoke.png",
             "decimals": 18,
             "address": "0x110975fdd26f397eab71233c560d34ba01792853"
         },
@@ -3069,7 +3069,7 @@
             "chainId": 42161,
             "name": "iFARM",
             "symbol": "iFARM",
-            "logoURI": "BASE_URL/assets/ifarm.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/ifarm.svg",
             "decimals": 18,
             "address": "0x9dca587dc65ac0a043828b0acd946d71eb8d46c1"
         },
@@ -3077,7 +3077,7 @@
             "chainId": 42161,
             "name": "DMT",
             "symbol": "DMT",
-            "logoURI": "BASE_URL/assets/dmt.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/dmt.png",
             "decimals": 18,
             "address": "0x8b0e6f19ee57089f7649a455d89d7bc6314d04e8"
         },
@@ -3085,7 +3085,7 @@
             "chainId": 42161,
             "name": "USD+",
             "symbol": "USD+",
-            "logoURI": "BASE_URL/assets/usdp.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/usdp.png",
             "decimals": 6,
             "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65"
         },
@@ -3093,7 +3093,7 @@
             "chainId": 42161,
             "name": "Layer2DAO",
             "symbol": "L2DAO",
-            "logoURI": "BASE_URL/assets/l2dao.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/l2dao.png",
             "decimals": 18,
             "address": "0x2cab3abfc1670d1a452df502e216a66883cdf079"
         },
@@ -3101,7 +3101,7 @@
             "chainId": 42161,
             "name": "Equilibria Token",
             "symbol": "EQB",
-            "logoURI": "BASE_URL/assets/eqb.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/eqb.jpg",
             "decimals": 18,
             "address": "0xbfbcfe8873fe28dfa25f1099282b088d52bbad9c"
         },
@@ -3109,7 +3109,7 @@
             "chainId": 42161,
             "name": "Fractal Protocol Vault Token",
             "symbol": "USDF",
-            "logoURI": "BASE_URL/assets/usdf.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/usdf.jpg",
             "decimals": 6,
             "address": "0xae48b7c8e096896e32d53f10d0bf89f82ec7b987"
         },
@@ -3117,7 +3117,7 @@
             "chainId": 42161,
             "name": "Penpie Token",
             "symbol": "PNP",
-            "logoURI": "BASE_URL/assets/pnp.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/pnp.jpg",
             "decimals": 18,
             "address": "0x2ac2b254bc18cd4999f64773a966e4f4869c34ee"
         },
@@ -3125,7 +3125,7 @@
             "chainId": 42161,
             "name": "unshETHing_Token",
             "symbol": "USH",
-            "logoURI": "BASE_URL/assets/ush.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/ush.svg",
             "decimals": 18,
             "address": "0x51a80238b5738725128d3a3e06ab41c1d4c05c74"
         },
@@ -3133,7 +3133,7 @@
             "chainId": 42161,
             "name": "unshETH Ether",
             "symbol": "unshETH",
-            "logoURI": "BASE_URL/assets/unsheth.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/unsheth.svg",
             "decimals": 18,
             "address": "0x0ae38f7e10a43b5b2fb064b42a2f4514cba909ef"
         },
@@ -3141,7 +3141,7 @@
             "chainId": 42161,
             "name": "Rodeo",
             "symbol": "RDO",
-            "logoURI": "BASE_URL/assets/rdo.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/rdo.svg",
             "decimals": 18,
             "address": "0x033f193b3fceb22a440e89a2867e8fee181594d9"
         },
@@ -3149,7 +3149,7 @@
             "chainId": 42161,
             "name": "Rodeo Sale Receipt",
             "symbol": "srRDO",
-            "logoURI": "BASE_URL/assets/rdo.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/rdo.svg",
             "decimals": 18,
             "address": "0xc4327dc9ef2511706d233e813b822f196bc027ac"
         },
@@ -3157,7 +3157,7 @@
             "chainId": 42161,
             "name": "Aury",
             "symbol": "AURY",
-            "logoURI": "BASE_URL/assets/aury.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/aury.png",
             "decimals": 9,
             "address": "0x11bf4f05eb28b802ed3ab672594decb20ffe2313"
         },
@@ -3165,7 +3165,7 @@
             "chainId": 42161,
             "name": "Unlimited Network Token",
             "symbol": "UWU",
-            "logoURI": "BASE_URL/assets/uwu.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/uwu.svg",
             "decimals": 18,
             "address": "0x05d35769a222affd6185e20f3f3676abde56c25f"
         },
@@ -3173,7 +3173,7 @@
             "chainId": 42161,
             "name": "Plutus ARB",
             "symbol": "plsARB",
-            "logoURI": "BASE_URL/assets/plsarb.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/plsarb.svg",
             "decimals": 18,
             "address": "0x7a5d193fe4ed9098f7eadc99797087c96b002907"
         },
@@ -3181,7 +3181,7 @@
             "chainId": 42161,
             "name": "Escrowed PLS",
             "symbol": "esPLS",
-            "logoURI": "BASE_URL/assets/pls.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/pls.svg",
             "decimals": 18,
             "address": "0xc636c1f678df0a834ad103196338cb7dd1d194ff"
         },
@@ -3189,7 +3189,7 @@
             "chainId": 42161,
             "name": "Radiant",
             "symbol": "RDNT",
-            "logoURI": "BASE_URL/assets/rdnt.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/rdnt.svg",
             "decimals": 18,
             "address": "0x3082cc23568ea640225c2467653db90e9250aaa0"
         },
@@ -3197,7 +3197,7 @@
             "chainId": 42161,
             "name": "Standard Token",
             "symbol": "TST",
-            "logoURI": "BASE_URL/assets/tst.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/tst.svg",
             "decimals": 18,
             "address": "0xf5a27e55c748bcddbfea5477cb9ae924f0f7fd2e"
         },
@@ -3205,7 +3205,7 @@
             "chainId": 42161,
             "name": "The Standard EURO",
             "symbol": "EUROs",
-            "logoURI": "BASE_URL/assets/euros.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/euros.svg",
             "decimals": 18,
             "address": "0x643b34980e635719c15a2d4ce69571a258f940e9"
         },
@@ -3213,7 +3213,7 @@
             "chainId": 42161,
             "name": "Altitude",
             "symbol": "ALTD",
-            "logoURI": "BASE_URL/assets/altd.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/altd.jpg",
             "decimals": 18,
             "address": "0x8929e9dbd2785e3ba16175e596cdd61520fee0d1"
         },
@@ -3221,7 +3221,7 @@
             "chainId": 42161,
             "name": "GMBL COMPUTER CHiP",
             "symbol": "GMBL",
-            "logoURI": "BASE_URL/assets/gmbl.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/gmbl.png",
             "decimals": 18,
             "address": "0xe9a5af50874c0ef2748b5db70104b5ccb5557f6d"
         },
@@ -3229,7 +3229,7 @@
             "chainId": 42161,
             "name": "Mozaic Token",
             "symbol": "MOZ",
-            "logoURI": "BASE_URL/assets/moz.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/moz.png",
             "decimals": 18,
             "address": "0x20547341e58fb558637fa15379c92e11f7b7f710"
         },
@@ -3237,7 +3237,7 @@
             "chainId": 42161,
             "name": "Florence Finance flrEUR",
             "symbol": "flrEUR",
-            "logoURI": "BASE_URL/assets/flr.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/flr.svg",
             "decimals": 18,
             "address": "0x9b6226dd0191a77d032f56a6d383044ee99944c3"
         },
@@ -3245,7 +3245,7 @@
             "chainId": 42161,
             "name": "Radpie esRDNT",
             "symbol": "esRDNT",
-            "logoURI": "BASE_URL/assets/esrdnt.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/esrdnt.svg",
             "decimals": 18,
             "address": "0x1cc128a5d977b3ba7d598f01db20a2116f59ef68"
         },
@@ -3253,7 +3253,7 @@
             "chainId": 42161,
             "name": "Paribus",
             "symbol": "PBX",
-            "logoURI": "BASE_URL/assets/pbx.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/pbx.png",
             "decimals": 18,
             "address": "0xbad58ed9b5f26a002ea250d7a60dc6729a4a2403"
         },
@@ -3261,7 +3261,7 @@
             "chainId": 42161,
             "name": "Tigris",
             "symbol": "TIG",
-            "logoURI": "BASE_URL/assets/tig.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/tig.png",
             "decimals": 18,
             "address": "0x3a33473d7990a605a88ac72a78ad4efc40a54adb"
         },
@@ -3269,7 +3269,7 @@
             "chainId": 42161,
             "name": "Wrapped SOL (Wormhole)",
             "symbol": "SOL",
-            "logoURI": "BASE_URL/assets/sol.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/sol.png",
             "decimals": 9,
             "address": "0x2bcc6d6cdbbdc0a4071e48bb3b969b06b3330c07"
         },
@@ -3277,7 +3277,7 @@
             "chainId": 42161,
             "name": "Staked agEUR",
             "symbol": "stEUR",
-            "logoURI": "BASE_URL/assets/steur.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/steur.svg",
             "decimals": 18,
             "address": "0x004626a008b1acdc4c74ab51644093b155e59a23"
         },
@@ -3285,7 +3285,7 @@
             "chainId": 42161,
             "name": "Seneca",
             "symbol": "SEN",
-            "logoURI": "BASE_URL/assets/sen.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/sen.png",
             "decimals": 18,
             "address": "0x154388a4650d63acc823e06ef9e47c1eddd3cbb2"
         },
@@ -3293,7 +3293,7 @@
             "chainId": 42161,
             "name": "Y2K",
             "symbol": "Y2K",
-            "logoURI": "BASE_URL/assets/y2k.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/y2k.svg",
             "decimals": 18,
             "address": "0x65c936f008bc34fe819bce9fa5afd9dc2d49977f"
         },
@@ -3301,7 +3301,7 @@
             "chainId": 42161,
             "name": "Governance OHM",
             "symbol": "gOHM",
-            "logoURI": "BASE_URL/assets/gohm.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/gohm.png",
             "decimals": 18,
             "address": "0x8d9ba570d6cb60c7e3e0f31343efe75ab8e65fb1"
         },
@@ -3309,7 +3309,7 @@
             "chainId": 42161,
             "name": "Bonk",
             "symbol": "BONK",
-            "logoURI": "BASE_URL/assets/bonk.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/bonk.png",
             "decimals": 5,
             "address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74"
         },
@@ -3317,7 +3317,7 @@
             "chainId": 42161,
             "name": "Pepe",
             "symbol": "PEPE",
-            "logoURI": "BASE_URL/assets/pepe.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/pepe.jpg",
             "decimals": 18,
             "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00"
         },
@@ -3325,7 +3325,7 @@
             "chainId": 42161,
             "name": "Good Entry",
             "symbol": "GOOD",
-            "logoURI": "BASE_URL/assets/good.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/good.jpg",
             "decimals": 18,
             "address": "0x17176a9868f321411b15ccb9b934cf95597e89c4"
         },
@@ -3333,7 +3333,7 @@
             "chainId": 42161,
             "name": "dForce USD",
             "symbol": "USX",
-            "logoURI": "BASE_URL/assets/usx.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/usx.svg",
             "decimals": 18,
             "address": "0x641441c631e2f909700d2f41fd87f0aa6a6b4edb"
         },
@@ -3341,7 +3341,7 @@
             "chainId": 42161,
             "name": "Yak Token",
             "symbol": "YAK",
-            "logoURI": "BASE_URL/assets/yak.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/yak.png",
             "decimals": 18,
             "address": "0x7f4db37d7beb31f445307782bc3da0f18df13696"
         },
@@ -3349,7 +3349,7 @@
             "chainId": 42161,
             "name": "STEAK",
             "symbol": "STEAK",
-            "logoURI": "BASE_URL/assets/steak.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/steak.svg",
             "decimals": 18,
             "address": "0xddbfbd5dc3ba0feb96cb513b689966b2176d4c09"
         },
@@ -3357,7 +3357,7 @@
             "chainId": 42161,
             "name": "Vertex",
             "symbol": "VRTX",
-            "logoURI": "BASE_URL/assets/vrtx.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/vrtx.png",
             "decimals": 18,
             "address": "0x95146881b86b3ee99e63705ec87afe29fcc044d9"
         },
@@ -3365,7 +3365,7 @@
             "chainId": 42161,
             "name": "Axelar Wrapped USDC",
             "symbol": "axlUSDC",
-            "logoURI": "BASE_URL/assets/axlUSDC.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/axlUSDC.svg",
             "decimals": 6,
             "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215"
         },
@@ -3373,7 +3373,7 @@
             "chainId": 42161,
             "name": "SeedifyFund",
             "symbol": "SFUND",
-            "logoURI": "BASE_URL/assets/sfund.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/sfund.png",
             "decimals": 18,
             "address": "0x560363bda52bc6a44ca6c8c9b4a5fadbda32fa60"
         },
@@ -3381,7 +3381,7 @@
             "chainId": 42161,
             "name": "Mozaic escrowed token",
             "symbol": "xMOZ",
-            "logoURI": "BASE_URL/assets/xmoz.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/xmoz.png",
             "decimals": 18,
             "address": "0x288734c9d9db21c5660b6b893f513cb04b6cd2d6"
         },
@@ -3389,7 +3389,7 @@
             "chainId": 42161,
             "name": "Hercules Vault Token",
             "symbol": "MOZ-LP",
-            "logoURI": "BASE_URL/assets/mozlp.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/mozlp.png",
             "decimals": 6,
             "address": "0x2e8751fcd698b0a0704a04515667229e7843fa58"
         },
@@ -3397,7 +3397,7 @@
             "chainId": 42161,
             "name": "Unitus",
             "symbol": "UTS",
-            "logoURI": "BASE_URL/assets/uts.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/uts.svg",
             "decimals": 18,
             "address": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad"
         },
@@ -3405,7 +3405,7 @@
             "chainId": 42161,
             "name": "Boop",
             "symbol": "BOOP",
-            "logoURI": "BASE_URL/assets/boop.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/boop.png",
             "decimals": 18,
             "address": "0x13a7dedb7169a17be92b0e3c7c2315b46f4772b3"
         },
@@ -3413,7 +3413,7 @@
             "chainId": 42161,
             "name": "Size",
             "symbol": "SIZE",
-            "logoURI": "BASE_URL/assets/size.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/size.jpg",
             "decimals": 18,
             "address": "0x939727d85d99d0ac339bf1b76dfe30ca27c19067"
         },
@@ -3421,7 +3421,7 @@
             "chainId": 42161,
             "name": "Eclipse Fi",
             "symbol": "ECLIP",
-            "logoURI": "BASE_URL/assets/eclip.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/eclip.svg",
             "decimals": 6,
             "address": "0x93ca0d85837ff83158cd14d65b169cdb223b1921"
         },
@@ -3429,7 +3429,7 @@
             "chainId": 42161,
             "name": "Smolcoin",
             "symbol": "SMOL",
-            "logoURI": "BASE_URL/assets/smol.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/smol.jpg",
             "decimals": 18,
             "address": "0x9e64d3b9e8ec387a9a58ced80b71ed815f8d82b5"
         },
@@ -3437,7 +3437,7 @@
             "chainId": 42161,
             "name": "Radpie",
             "symbol": "RDP",
-            "logoURI": "BASE_URL/assets/rdp.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/rdp.png",
             "decimals": 18,
             "address": "0x54bdbf3ce36f451ec61493236b8e6213ac87c0f6"
         },
@@ -3445,7 +3445,7 @@
             "chainId": 42161,
             "name": "Wrapped Tao",
             "symbol": "wTAO",
-            "logoURI": "BASE_URL/assets/wtao.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/wtao.png",
             "decimals": 18,
             "address": "0xa14a26bb46e236da394da6b09a5b4cf737ce707b"
         },
@@ -3453,7 +3453,7 @@
             "chainId": 42161,
             "name": "ETH++",
             "symbol": "ETH++",
-            "logoURI": "BASE_URL/assets/eth++.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/eth++.png",
             "decimals": 6,
             "address": "0x27d22eb71f00495eccc89bb02c2b68e6988c6a42"
         },
@@ -3461,7 +3461,7 @@
             "chainId": 42161,
             "name": "Frax",
             "symbol": "FRAX",
-            "logoURI": "BASE_URL/assets/frax.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/frax.svg",
             "decimals": 18,
             "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f"
         },
@@ -3469,7 +3469,7 @@
             "chainId": 42161,
             "name": "Frax Ether",
             "symbol": "frxETH",
-            "logoURI": "BASE_URL/assets/frxeth.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/frxeth.svg",
             "decimals": 18,
             "address": "0x178412e79c25968a32e89b11f63b33f733770c2a"
         },
@@ -3477,7 +3477,7 @@
             "chainId": 42161,
             "name": "Seneca USD",
             "symbol": "senUSD",
-            "logoURI": "BASE_URL/assets/senUSD.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/senUSD.png",
             "decimals": 18,
             "address": "0xf36a65fd3b7df848860d174115f1864e6aa2db5e"
         },
@@ -3485,7 +3485,7 @@
             "chainId": 42161,
             "name": "Florence Finance Medici",
             "symbol": "FFM",
-            "logoURI": "BASE_URL/assets/ffm.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/ffm.svg",
             "decimals": 18,
             "address": "0x3269a3c00ab86c753856fd135d97b87facb0d848"
         },
@@ -3493,7 +3493,7 @@
             "chainId": 42161,
             "name": "Xai",
             "symbol": "XAI",
-            "logoURI": "BASE_URL/assets/xai.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/xai.png",
             "decimals": 18,
             "address": "0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66"
         },
@@ -3501,7 +3501,7 @@
             "chainId": 42161,
             "name": "ZooDAO",
             "symbol": "ZOO",
-            "logoURI": "BASE_URL/assets/zoo.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/zoo.jpg",
             "decimals": 18,
             "address": "0x1689a6e1f09658ff37d0bb131514e701045876da"
         },
@@ -3509,7 +3509,7 @@
             "chainId": 42161,
             "name": "D2",
             "symbol": "D2",
-            "logoURI": "BASE_URL/assets/d2.jpg",
+            "logoURI": "https://token-list.camelot.exchange/assets/d2.jpg",
             "decimals": 18,
             "address": "0xed7f000ee335b8199b004cca1c6f36d188cf6cb8"
         },
@@ -3517,7 +3517,7 @@
             "chainId": 42161,
             "name": "Savvy",
             "symbol": "SVY",
-            "logoURI": "BASE_URL/assets/svy.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/svy.png",
             "decimals": 18,
             "address": "0x43ab8f7d2a8dd4102ccea6b438f6d747b1b9f034"
         },
@@ -3525,7 +3525,7 @@
             "chainId": 42161,
             "name": "Savvy BTC",
             "symbol": "svBTC",
-            "logoURI": "BASE_URL/assets/svbtc.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/svbtc.svg",
             "decimals": 18,
             "address": "0xeee18334c414a47fb886a7317e1885b2bfb8c2a6"
         },
@@ -3533,7 +3533,7 @@
             "chainId": 42161,
             "name": "O3 Swap Token",
             "symbol": "O3",
-            "logoURI": "BASE_URL/assets/o3.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/o3.png",
             "decimals": 18,
             "address": "0xee9801669c6138e84bd50deb500827b776777d28"
         },
@@ -3541,7 +3541,7 @@
             "chainId": 42161,
             "name": "Rosa",
             "symbol": "ROSA",
-            "logoURI": "BASE_URL/assets/rosa.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/rosa.png",
             "decimals": 18,
             "address": "0x6dd51520825b170c32ef322eadcbd53594929a8a"
         },
@@ -3549,7 +3549,7 @@
             "chainId": 42161,
             "name": "Open Dollar Governance",
             "symbol": "ODG",
-            "logoURI": "BASE_URL/assets/odg.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/odg.svg",
             "decimals": 18,
             "address": "0x000d636bd52bfc1b3a699165ef5aa340bea8939c"
         },
@@ -3557,7 +3557,7 @@
             "chainId": 42161,
             "name": "Glend",
             "symbol": "GLEND",
-            "logoURI": "BASE_URL/assets/glend.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/glend.svg",
             "decimals": 18,
             "address": "0x43df266501dff4773f8f33179e3b96ab94dbc28d"
         },
@@ -3565,7 +3565,7 @@
             "chainId": 42161,
             "name": "Wrapped BNB",
             "symbol": "wBNB",
-            "logoURI": "BASE_URL/assets/wbnb.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/wbnb.png",
             "decimals": 18,
             "address": "0xa9004a5421372e1d83fb1f85b0fc986c912f91f3"
         },
@@ -3573,7 +3573,7 @@
             "chainId": 42161,
             "name": "Uranium3o8",
             "symbol": "U",
-            "logoURI": "BASE_URL/assets/u.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/u.png",
             "decimals": 18,
             "address": "0x6604b5da093f3f35066c6c79e51d581a44c35288"
         },
@@ -3581,7 +3581,7 @@
             "chainId": 42161,
             "name": "Collab.Land",
             "symbol": "COLLAB",
-            "logoURI": "BASE_URL/assets/collab.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/collab.svg",
             "decimals": 18,
             "address": "0xf18c263ec50cc211ef3f172228549b6618f10613"
         },
@@ -3589,7 +3589,7 @@
             "chainId": 42161,
             "name": "ApeX Token",
             "symbol": "APEX",
-            "logoURI": "BASE_URL/assets/apex.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/apex.svg",
             "decimals": 18,
             "address": "0x61a1ff55c5216b636a294a07d77c6f4df10d3b56"
         },
@@ -3597,7 +3597,7 @@
             "chainId": 42161,
             "name": "Wrapped COIN.d",
             "symbol": "COIN.dw",
-            "logoURI": "BASE_URL/assets/coin.dw.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/coin.dw.svg",
             "decimals": 18,
             "address": "0x407274abb9241da0a1889c1b8ec65359dd9d316d"
         },
@@ -3605,7 +3605,7 @@
             "chainId": 42161,
             "name": "EdgeMatrix Computing Network",
             "symbol": "EMC",
-            "logoURI": "BASE_URL/assets/emc.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/emc.svg",
             "decimals": 18,
             "address": "0xdfb8be6f8c87f74295a87de951974362cedcfa30"
         },
@@ -3613,7 +3613,7 @@
             "chainId": 42161,
             "name": "OpulousToken",
             "symbol": "OPUL",
-            "logoURI": "BASE_URL/assets/opul.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/opul.png",
             "decimals": 18,
             "address": "0x0c5fa0e07949f941a6c2c29a008252db1527d6ee"
         },
@@ -3621,7 +3621,7 @@
             "chainId": 42161,
             "name": "OVAULT",
             "symbol": "OVAULT",
-            "logoURI": "BASE_URL/assets/ovault.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/ovault.png",
             "decimals": 6,
             "address": "0x6a214298e6f8605f6ab52913e4fc4a02ce66d33a"
         },
@@ -3629,7 +3629,7 @@
             "chainId": 42161,
             "name": "IPOR Token",
             "symbol": "IPOR",
-            "logoURI": "BASE_URL/assets/ipor.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/ipor.svg",
             "decimals": 18,
             "address": "0x34229b3f16fbcdfa8d8d9d17c0852f9496f4c7bb"
         },
@@ -3637,7 +3637,7 @@
             "chainId": 42161,
             "name": "xD2",
             "symbol": "xD2",
-            "logoURI": "BASE_URL/assets/xd2.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/xd2.svg",
             "decimals": 18,
             "address": "0x1c17a39b156189bf40905425170a3ff62fb650da"
         },
@@ -3645,7 +3645,7 @@
             "chainId": 42161,
             "name": "RODEO++",
             "symbol": "RODEO++",
-            "logoURI": "BASE_URL/assets/rodeo++.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/rodeo++.svg",
             "decimals": 6,
             "address": "0xeee6e115cb08ac280fc55642a61d8adfba85dfed"
         },
@@ -3653,7 +3653,7 @@
             "chainId": 42161,
             "name": "GG",
             "symbol": "GG",
-            "logoURI": "BASE_URL/assets/gg.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/gg.png",
             "decimals": 18,
             "address": "0x000000000026839b3f4181f2cf69336af6153b99"
         },
@@ -3661,7 +3661,7 @@
             "chainId": 42161,
             "name": "KelpDao Restaked ETH",
             "symbol": "rsETH",
-            "logoURI": "BASE_URL/assets/rseth.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/rseth.png",
             "decimals": 18,
             "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f"
         },
@@ -3669,7 +3669,7 @@
             "chainId": 42161,
             "name": "Milkyway Staked TIA",
             "symbol": "milkTIA",
-            "logoURI": "BASE_URL/assets/milktia.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/milktia.png",
             "decimals": 6,
             "address": "0x4aa81d7ab59c775fe6f9f45e6941a0fb8cd692a6"
         },
@@ -3677,7 +3677,7 @@
             "chainId": 42161,
             "name": "Polytrade",
             "symbol": "TRADE",
-            "logoURI": "BASE_URL/assets/trade.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/trade.png",
             "decimals": 18,
             "address": "0xe22c452bd2ade15dfc8ad98286bc6bdf0c9219b7"
         },
@@ -3685,7 +3685,7 @@
             "chainId": 42161,
             "name": "Wrapped stLINK",
             "symbol": "wstLINK",
-            "logoURI": "BASE_URL/assets/wstlink.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/wstlink.png",
             "decimals": 18,
             "address": "0x3106e2e148525b3db36795b04691d444c24972fb"
         },
@@ -3693,7 +3693,7 @@
             "chainId": 42161,
             "name": "stake.link",
             "symbol": "SDL",
-            "logoURI": "BASE_URL/assets/sdl.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/sdl.png",
             "decimals": 18,
             "address": "0xdfea35757264f5b6c0ff21104151d9f991d0eec0"
         },
@@ -3701,7 +3701,7 @@
             "chainId": 42161,
             "name": "Renzo Restaked ETH",
             "symbol": "ezETH",
-            "logoURI": "BASE_URL/assets/ezeth.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/ezeth.png",
             "decimals": 18,
             "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
         },
@@ -3709,7 +3709,7 @@
             "chainId": 42161,
             "name": "Algebra",
             "symbol": "ALGB",
-            "logoURI": "BASE_URL/assets/algb.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/algb.png",
             "decimals": 18,
             "address": "0x9f018bda8f6b507a0c9e6f290b2f7c49c2f8daf8"
         },
@@ -3717,7 +3717,7 @@
             "chainId": 42161,
             "name": "Peapods",
             "symbol": "PEAS",
-            "logoURI": "BASE_URL/assets/peas.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/peas.png",
             "decimals": 18,
             "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875"
         },
@@ -3725,7 +3725,7 @@
             "chainId": 42161,
             "name": "Olympus",
             "symbol": "OHM",
-            "logoURI": "BASE_URL/assets/ohm.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/ohm.png",
             "decimals": 9,
             "address": "0xf0cb2dc0db5e6c66b9a70ac27b06b878da017028"
         },
@@ -3733,7 +3733,7 @@
             "chainId": 42161,
             "name": "Pirex Ether",
             "symbol": "pxETH",
-            "logoURI": "BASE_URL/assets/pxeth.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/pxeth.png",
             "decimals": 18,
             "address": "0x300d2c875c6fb8ce4bf5480b4d34b7c9ea8a33a4"
         },
@@ -3741,7 +3741,7 @@
             "chainId": 42161,
             "name": "Autocompounding Pirex Ether",
             "symbol": "apxETH",
-            "logoURI": "BASE_URL/assets/apxeth.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/apxeth.png",
             "decimals": 18,
             "address": "0x16ed8e219cde31e14a80dcb6c9127a5ec6e88e46"
         },
@@ -3749,7 +3749,7 @@
             "chainId": 42161,
             "name": "Taobank",
             "symbol": "TBANK",
-            "logoURI": "BASE_URL/assets/tbank.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/tbank.png",
             "decimals": 18,
             "address": "0x05cbef357cb14f9861c01f90ac7d5c90ce0ef05e"
         },
@@ -3757,7 +3757,7 @@
             "chainId": 42161,
             "name": "taoUSD",
             "symbol": "taoUSD",
-            "logoURI": "BASE_URL/assets/taousd.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/taousd.png",
             "decimals": 18,
             "address": "0x966570a84709d693463cdd69dcadb0121b2c9d26"
         },
@@ -3765,7 +3765,7 @@
             "chainId": 42161,
             "name": "Moons",
             "symbol": "MOON",
-            "logoURI": "BASE_URL/assets/moons.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/moons.png",
             "decimals": 18,
             "address": "0x24404dc041d74cd03cfe28855f555559390c931b"
         },
@@ -3773,7 +3773,7 @@
             "chainId": 42161,
             "name": "Locus Token",
             "symbol": "LOCUS",
-            "logoURI": "BASE_URL/assets/locus.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/locus.svg",
             "decimals": 18,
             "address": "0xe1d3495717f9534db67a6a8d4940dd17435b6a9e"
         },
@@ -3781,7 +3781,7 @@
             "chainId": 42161,
             "name": "Wrapped TIA",
             "symbol": "wTIA",
-            "logoURI": "BASE_URL/assets/tia.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/tia.png",
             "decimals": 18,
             "address": "0x1be526dade4c27b145e40d5bbbb0730e397e780e"
         },
@@ -3789,7 +3789,7 @@
             "chainId": 42161,
             "name": "ARB++",
             "symbol": "ARB++",
-            "logoURI": "BASE_URL/assets/arb++.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/arb++.svg",
             "decimals": 18,
             "address": "0x291344fbaac4fe14632061e4c336fe3b94c52320"
         },
@@ -3797,7 +3797,7 @@
             "chainId": 42161,
             "name": "ETHx",
             "symbol": "ETHx",
-            "logoURI": "BASE_URL/assets/ethx.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/ethx.png",
             "decimals": 18,
             "address": "0xed65c5085a18fa160af0313e60dcc7905e944dc7"
         },
@@ -3805,7 +3805,7 @@
             "chainId": 42161,
             "name": "Fluidity",
             "symbol": "FLY",
-            "logoURI": "BASE_URL/assets/fly.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/fly.png",
             "decimals": 6,
             "address": "0x000f1720a263f96532d1ac2bb9cdc12b72c6f386"
         },
@@ -3813,7 +3813,7 @@
             "chainId": 42161,
             "name": "USDe",
             "symbol": "USDe",
-            "logoURI": "BASE_URL/assets/usde.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/usde.svg",
             "decimals": 18,
             "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
         },
@@ -3821,7 +3821,7 @@
             "chainId": 42161,
             "name": "TIA.n",
             "symbol": "TIA.n",
-            "logoURI": "BASE_URL/assets/tia.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/tia.png",
             "decimals": 6,
             "address": "0xd56734d7f9979dd94fae3d67c7e928234e71cd4c"
         },
@@ -3829,7 +3829,7 @@
             "chainId": 42161,
             "name": "Equilibria Pendle",
             "symbol": "ePendle",
-            "logoURI": "BASE_URL/assets/ependle.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/ependle.png",
             "decimals": 18,
             "address": "0x3eabe18eae267d1b57f917aba085bb5906114600"
         },
@@ -3837,7 +3837,7 @@
             "chainId": 42161,
             "name": "Stryke Token",
             "symbol": "SYK",
-            "logoURI": "BASE_URL/assets/syk.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/syk.svg",
             "decimals": 18,
             "address": "0xacc51ffdef63fb0c014c882267c3a17261a5ed50"
         },
@@ -3845,7 +3845,7 @@
             "chainId": 42161,
             "name": "XStrykeToken",
             "symbol": "xSYK",
-            "logoURI": "BASE_URL/assets/xsyk.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/xsyk.svg",
             "decimals": 18,
             "address": "0x50e04e222fc1be96e94e86acf1136cb0e97e1d40"
         },
@@ -3853,7 +3853,7 @@
             "chainId": 42161,
             "name": "Wrapped RDDT.d",
             "symbol": "RDDT.dw",
-            "logoURI": "BASE_URL/assets/rddt.dw.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/rddt.dw.svg",
             "decimals": 18,
             "address": "0x2f71b3804a74a013d00065225752dba9ad061e51"
         },
@@ -3861,7 +3861,7 @@
             "chainId": 42161,
             "name": "Wrapped eETH",
             "symbol": "weETH",
-            "logoURI": "BASE_URL/assets/weeth.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/weeth.png",
             "decimals": 18,
             "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe"
         },
@@ -3869,7 +3869,7 @@
             "chainId": 42161,
             "name": "Kwenta Token",
             "symbol": "KWENTA",
-            "logoURI": "BASE_URL/assets/kwenta.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/kwenta.svg",
             "decimals": 18,
             "address": "0x7fe5e5befa99a57cd690f2e220c251c90422da8b"
         },
@@ -3877,7 +3877,7 @@
             "chainId": 42161,
             "name": "Rubic Token",
             "symbol": "RBC",
-            "logoURI": "BASE_URL/assets/rubic.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/rubic.png",
             "decimals": 18,
             "address": "0x10aaed289a7b1b0155bf4b86c862f297e84465e0"
         },
@@ -3885,7 +3885,7 @@
             "chainId": 42161,
             "name": "Open Dollar",
             "symbol": "OD",
-            "logoURI": "BASE_URL/assets/od.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/od.svg",
             "decimals": 18,
             "address": "0x221a0f68770658c15b525d0f89f5da2baab5f321"
         },
@@ -3893,7 +3893,7 @@
             "chainId": 42161,
             "name": "Electronic Dollar",
             "symbol": "eUSD",
-            "logoURI": "BASE_URL/assets/eusd.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/eusd.png",
             "decimals": 18,
             "address": "0x12275dcb9048680c4be40942ea4d92c74c63b844"
         },
@@ -3901,7 +3901,7 @@
             "chainId": 42161,
             "name": "ETHPlus",
             "symbol": "ETH+",
-            "logoURI": "BASE_URL/assets/eth+.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/eth+.png",
             "decimals": 18,
             "address": "0x18c14c2d707b2212e17d1579789fc06010cfca23"
         },
@@ -3909,7 +3909,7 @@
             "chainId": 42161,
             "name": "Revenue Generating USD",
             "symbol": "rgUSD",
-            "logoURI": "BASE_URL/assets/rgusd.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/rgusd.png",
             "decimals": 18,
             "address": "0x96a993f06951b01430523d0d5590192d650ebf3e"
         },
@@ -3917,7 +3917,7 @@
             "chainId": 42161,
             "name": "KNOX",
             "symbol": "KNOX",
-            "logoURI": "BASE_URL/assets/knox.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/knox.png",
             "decimals": 18,
             "address": "0x0bbf664d46becc28593368c97236faa0fb397595"
         },
@@ -3925,7 +3925,7 @@
             "chainId": 42161,
             "name": "Crypto Unicorns",
             "symbol": "CU",
-            "logoURI": "BASE_URL/assets/cu.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/cu.png",
             "decimals": 18,
             "address": "0x89c49a3fa372920ac23ce757a029e6936c0b8e02"
         },
@@ -3933,7 +3933,7 @@
             "chainId": 42161,
             "name": "Wrapped GME.d",
             "symbol": "GME.dw",
-            "logoURI": "BASE_URL/assets/gme.dw.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/gme.dw.svg",
             "decimals": 18,
             "address": "0x43333771e8d5fd74e5491d10aeac2bfdc23d19c8"
         },
@@ -3941,7 +3941,7 @@
             "chainId": 42161,
             "name": "Verified USD",
             "symbol": "USDV",
-            "logoURI": "BASE_URL/assets/usdv.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/usdv.png",
             "decimals": 6,
             "address": "0x323665443cef804a3b5206103304bd4872ea4253"
         },
@@ -3949,7 +3949,7 @@
             "chainId": 42161,
             "name": "AARK Token",
             "symbol": "AARK",
-            "logoURI": "BASE_URL/assets/aark.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/aark.png",
             "decimals": 18,
             "address": "0xca4e51f6ad4afd9d1068e5899de9dd7d73f3463d"
         },
@@ -3957,7 +3957,7 @@
             "chainId": 42161,
             "name": "Molten",
             "symbol": "MOLTEN",
-            "logoURI": "BASE_URL/assets/molten.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/molten.png",
             "decimals": 18,
             "address": "0x66e535e8d2ebf13f49f3d49e5c50395a97c137b1"
         },
@@ -3965,7 +3965,7 @@
             "chainId": 42161,
             "name": "Universal ETH",
             "symbol": "uniETH",
-            "logoURI": "BASE_URL/assets/unieth.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/unieth.png",
             "decimals": 18,
             "address": "0x3d15fd46ce9e551498328b1c83071d9509e2c3a0"
         },
@@ -3973,7 +3973,7 @@
             "chainId": 42161,
             "name": "Gains Network",
             "symbol": "GNS",
-            "logoURI": "BASE_URL/assets/gns.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/gns.png",
             "decimals": 18,
             "address": "0x18c11fd286c5ec11c3b683caa813b77f5163a122"
         },
@@ -3981,7 +3981,7 @@
             "chainId": 42161,
             "name": "BorpaToken",
             "symbol": "BORPA",
-            "logoURI": "BASE_URL/assets/borpa.png",
+            "logoURI": "https://token-list.camelot.exchange/assets/borpa.png",
             "decimals": 18,
             "address": "0x0002bcdaf53f4889bf2f43a3252d7c03fe1b80bc"
         },
@@ -3989,7 +3989,7 @@
             "chainId": 42161,
             "name": "cNote OFT",
             "symbol": "CNOTE-OFT",
-            "logoURI": "BASE_URL/assets/cnote.svg",
+            "logoURI": "https://token-list.camelot.exchange/assets/cnote.svg",
             "decimals": 18,
             "address": "0xebe265c9299d0c879bcc2a76948511ba6ed6c36d"
         }
