@@ -1,0 +1,458 @@
+{
+    "chainId": 59144,
+    "list": {
+        "0x3d4b2132ed4ea0aa93903713a4de9f98e625a5c7": {
+            "chainId": 59144,
+            "name": "3A Utility Token",
+            "symbol": "A3A",
+            "logoURI": "https://assets.coingecko.com/coins/images/33135/large/A3A.png?1700801023",
+            "decimals": 18,
+            "address": "0x3d4b2132ed4ea0aa93903713a4de9f98e625a5c7"
+        },
+        "0x1578f35532fa091eced8638730f9db829930ce16": {
+            "chainId": 59144,
+            "name": "Angle Protocol",
+            "symbol": "agEUR",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15024.png",
+            "decimals": 18,
+            "address": "0x1578f35532fa091eced8638730f9db829930ce16"
+        },
+        "0x6baa318cf7c51c76e17ae1ebe9bbff96ae017acb": {
+            "chainId": 59144,
+            "name": "ApeCoin",
+            "symbol": "APE",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png",
+            "decimals": 18,
+            "address": "0x6baa318cf7c51c76e17ae1ebe9bbff96ae017acb"
+        },
+        "0x5b16228b94b68c7ce33af2acc5663ebde4dcfa2d": {
+            "chainId": 59144,
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+            "decimals": 18,
+            "address": "0x5b16228b94b68c7ce33af2acc5663ebde4dcfa2d"
+        },
+        "0xacb54d07ca167934f57f829bee2cc665e1a5ebef": {
+            "chainId": 59144,
+            "name": "CROAK",
+            "symbol": "CROAK",
+            "logoURI": "https://bafybeiempzjdoflyvrhs6uk3424pij753jus3hz5ztkcri4d3zkyjmyd34.ipfs.dweb.link/logo/coin.png",
+            "decimals": 18,
+            "address": "0xacb54d07ca167934f57f829bee2cc665e1a5ebef"
+        },
+        "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5": {
+            "chainId": 59144,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+            "decimals": 18,
+            "address": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5"
+        },
+        "0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4": {
+            "chainId": 59144,
+            "name": "Davos.xyz USD",
+            "symbol": "DUSD",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23515.png",
+            "decimals": 18,
+            "address": "0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4"
+        },
+        "0x1f031f8c523b339c7a831355879e3568fa3eb263": {
+            "chainId": 59144,
+            "name": "DeversiFi Token",
+            "symbol": "DVF",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10759.png",
+            "decimals": 18,
+            "address": "0x1f031f8c523b339c7a831355879e3568fa3eb263"
+        },
+        "0x70359c1eeb98eb3d12ee7178359a4541ff11cc8e": {
+            "chainId": 59144,
+            "name": "DSLA Protocol",
+            "symbol": "DSLA",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5423.png",
+            "decimals": 18,
+            "address": "0x70359c1eeb98eb3d12ee7178359a4541ff11cc8e"
+        },
+        "0x5fbdf89403270a1846f5ae7d113a989f850d1566": {
+            "chainId": 59144,
+            "name": "Foxy",
+            "symbol": "FOXY",
+            "logoURI": "https://i.ibb.co/MSKkFbf/logo.png",
+            "decimals": 18,
+            "address": "0x5fbdf89403270a1846f5ae7d113a989f850d1566"
+        },
+        "0x0a79e44c99505c7f388ca30c787ff97217e73ecc": {
+            "chainId": 59144,
+            "name": "Frax Share",
+            "symbol": "FXS",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png",
+            "decimals": 18,
+            "address": "0x0a79e44c99505c7f388ca30c787ff97217e73ecc"
+        },
+        "0xe516a5cff996cc399efbb48355fd5ab83438e7a9": {
+            "chainId": 59144,
+            "name": "Gnosis Token",
+            "symbol": "GNO",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1659.png",
+            "decimals": 18,
+            "address": "0xe516a5cff996cc399efbb48355fd5ab83438e7a9"
+        },
+        "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487": {
+            "chainId": 59144,
+            "name": "Gravita Debt Token",
+            "symbol": "GRAI",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25337.png",
+            "decimals": 18,
+            "address": "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487"
+        },
+        "0x0e5f2ee8c29e7ebc14e45da7ff90566d8c407db7": {
+            "chainId": 59144,
+            "name": "HAPI Protocol",
+            "symbol": "HAPI",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8567.png",
+            "decimals": 18,
+            "address": "0x0e5f2ee8c29e7ebc14e45da7ff90566d8c407db7"
+        },
+        "0x3b2f62d42db19b30588648bf1c184865d4c3b1d6": {
+            "chainId": 59144,
+            "name": "Kyber Network Crystal v2",
+            "symbol": "KNC",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9444.png",
+            "decimals": 18,
+            "address": "0x3b2f62d42db19b30588648bf1c184865d4c3b1d6"
+        },
+        "0x0e076aafd86a71dceac65508daf975425c9d0cb6": {
+            "chainId": 59144,
+            "name": "Lido DAO Token",
+            "symbol": "LDO",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png",
+            "decimals": 18,
+            "address": "0x0e076aafd86a71dceac65508daf975425c9d0cb6"
+        },
+        "0xd83af4fbd77f3ab65c3b1dc4b38d7e67aecf599a": {
+            "chainId": 59144,
+            "name": "Linea XP",
+            "symbol": "LXP",
+            "logoURI": "https://raw.githubusercontent.com/Consensys/linea-token-list/main/logo/lxp.png",
+            "decimals": 18,
+            "address": "0xd83af4fbd77f3ab65c3b1dc4b38d7e67aecf599a"
+        },
+        "0x9d36f49d3d42b3a9bcc0f5ac76ff8ef78fb2bc01": {
+            "chainId": 59144,
+            "name": "Lybra Finance",
+            "symbol": "LBR",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24700.png",
+            "decimals": 18,
+            "address": "0x9d36f49d3d42b3a9bcc0f5ac76ff8ef78fb2bc01"
+        },
+        "0x1be3735dd0c0eb229fb11094b6c277192349ebbf": {
+            "chainId": 59144,
+            "name": "LUBE",
+            "symbol": "LUBE",
+            "logoURI": "https://pbs.twimg.com/profile_images/1725003585157787648/4nbkBLVA_400x400.jpg",
+            "decimals": 18,
+            "address": "0x1be3735dd0c0eb229fb11094b6c277192349ebbf"
+        },
+        "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af": {
+            "chainId": 59144,
+            "name": "Lynex",
+            "symbol": "LYNX",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29525.png",
+            "decimals": 18,
+            "address": "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af"
+        },
+        "0xf3b001d64c656e30a62fbaaca003b1336b4ce12a": {
+            "chainId": 59144,
+            "name": "Mai Stablecoin",
+            "symbol": "MAI",
+            "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png",
+            "decimals": 18,
+            "address": "0xf3b001d64c656e30a62fbaaca003b1336b4ce12a"
+        },
+        "0x2442bd7ae83b51f6664de408a385375fe4a84f52": {
+            "chainId": 59144,
+            "name": "Maker",
+            "symbol": "MKR",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
+            "decimals": 18,
+            "address": "0x2442bd7ae83b51f6664de408a385375fe4a84f52"
+        },
+        "0xaaaac83751090c6ea42379626435f805ddf54dc8": {
+            "chainId": 59144,
+            "name": "NILE Token",
+            "symbol": "NILE",
+            "logoURI": "https://i.imgur.com/VyPFhAn.png",
+            "decimals": 18,
+            "address": "0xaaaac83751090c6ea42379626435f805ddf54dc8"
+        },
+        "0xe2a6e74118e708f7652fc4c74d2f9ee5fa210563": {
+            "chainId": 59144,
+            "name": "NotWifGary",
+            "symbol": "$NWG",
+            "logoURI": "https://notwifgary.xyz/logo512.png",
+            "decimals": 18,
+            "address": "0xe2a6e74118e708f7652fc4c74d2f9ee5fa210563"
+        },
+        "0xd2bc272ea0154a93bf00191c8a1db23e67643ec5": {
+            "chainId": 59144,
+            "name": "Pax Dollar",
+            "symbol": "USDP",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png",
+            "decimals": 18,
+            "address": "0xd2bc272ea0154a93bf00191c8a1db23e67643ec5"
+        },
+        "0xa6eb75b11b36fb9175fb94c5b96959879a26c2a8": {
+            "chainId": 59144,
+            "name": "Meta Apes Peel",
+            "symbol": "PEEL",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21013.png",
+            "decimals": 18,
+            "address": "0xa6eb75b11b36fb9175fb94c5b96959879a26c2a8"
+        },
+        "0x7da14988e4f390c2e34ed41df1814467d3ade0c3": {
+            "chainId": 59144,
+            "name": "Pepe",
+            "symbol": "PEPE",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png",
+            "decimals": 18,
+            "address": "0x7da14988e4f390c2e34ed41df1814467d3ade0c3"
+        },
+        "0x13a7f090d46c74acba98c51786a5c46ed9a474f0": {
+            "chainId": 59144,
+            "name": "ScamFari",
+            "symbol": "SCM",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27863.png",
+            "decimals": 18,
+            "address": "0x13a7f090d46c74acba98c51786a5c46ed9a474f0"
+        },
+        "0x99ad925c1dc14ac7cc6ca1244eef8043c74e99d5": {
+            "chainId": 59144,
+            "name": "SHIBA INU",
+            "symbol": "SHIB",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14341.png",
+            "decimals": 18,
+            "address": "0x99ad925c1dc14ac7cc6ca1244eef8043c74e99d5"
+        },
+        "0x6ef95b6f3b0f39508e3e04054be96d5ee39ede0d": {
+            "chainId": 59144,
+            "name": "Symbiosis",
+            "symbol": "SIS",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15084.png",
+            "decimals": 18,
+            "address": "0x6ef95b6f3b0f39508e3e04054be96d5ee39ede0d"
+        },
+        "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116": {
+            "chainId": 59144,
+            "name": "Stone Liquidity Ether Token",
+            "symbol": "STONE",
+            "logoURI": "https://static.shieldex.io/stone/stone-3.svg",
+            "decimals": 18,
+            "address": "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116"
+        },
+        "0xa219439258ca9da29e9cc4ce5596924745e12b93": {
+            "chainId": 59144,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+            "decimals": 6,
+            "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93"
+        },
+        "0xc84f2ce21272f17d92d2a450f1c8567bf0ff448e": {
+            "chainId": 59144,
+            "name": "US KUMA Interest Bearing Token",
+            "symbol": "USK",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27290.png",
+            "decimals": 18,
+            "address": "0xc84f2ce21272f17d92d2a450f1c8567bf0ff448e"
+        },
+        "0x636b22bc471c955a8db60f28d4795066a8201fa3": {
+            "chainId": 59144,
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+            "decimals": 18,
+            "address": "0x636b22bc471c955a8db60f28d4795066a8201fa3"
+        },
+        "0x15eefe5b297136b8712291b632404b66a8ef4d25": {
+            "chainId": 59144,
+            "name": "Universal ETH",
+            "symbol": "uniETH",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23773.png",
+            "decimals": 18,
+            "address": "0x15eefe5b297136b8712291b632404b66a8ef4d25"
+        },
+        "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376": {
+            "chainId": 59144,
+            "name": "USD+",
+            "symbol": "USD+",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20317.png",
+            "decimals": 6,
+            "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376"
+        },
+        "0x176211869ca2b568f2a7d4ee941e073a821ee1ff": {
+            "chainId": 59144,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+            "decimals": 6,
+            "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff"
+        },
+        "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917": {
+            "chainId": 59144,
+            "name": "USDLR by Stable",
+            "symbol": "USDLR",
+            "logoURI": "https://storage.googleapis.com/public.withstable.com/logos/usdlr/dark-circle.png",
+            "decimals": 6,
+            "address": "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917"
+        },
+        "0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13": {
+            "chainId": 59144,
+            "name": "USDT+",
+            "symbol": "USDT+",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24962.png",
+            "decimals": 6,
+            "address": "0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13"
+        },
+        "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4": {
+            "chainId": 59144,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+            "decimals": 8,
+            "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4"
+        },
+        "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f": {
+            "chainId": 59144,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+            "decimals": 18,
+            "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
+        },
+        "0xb5bedd42000b71fdde22d3ee8a79bd49a568fc8f": {
+            "chainId": 59144,
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12409.png",
+            "decimals": 18,
+            "address": "0xb5bedd42000b71fdde22d3ee8a79bd49a568fc8f"
+        },
+        "0x8c56017b172226fe024dea197748fc1eaccc82b1": {
+            "chainId": 59144,
+            "name": "XFai",
+            "symbol": "XFIT",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9217.png",
+            "decimals": 18,
+            "address": "0x8c56017b172226fe024dea197748fc1eaccc82b1"
+        },
+        "0x3e5d9d8a63cc8a88748f229999cf59487e90721e": {
+            "chainId": 59144,
+            "name": "MetalSwap",
+            "symbol": "XMT",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15006.png",
+            "decimals": 18,
+            "address": "0x3e5d9d8a63cc8a88748f229999cf59487e90721e"
+        },
+        "0x43e8809ea748eff3204ee01f08872f063e44065f": {
+            "chainId": 59144,
+            "name": "Mendi Finance",
+            "symbol": "MENDI",
+            "logoURI": "https://assets.coingecko.com/coins/images/31418/standard/mendi_finance_token_logo_v1.png?1696530233",
+            "decimals": 18,
+            "address": "0x43e8809ea748eff3204ee01f08872f063e44065f"
+        },
+        "0x150b1e51738cdf0ccfe472594c62d7d6074921ca": {
+            "chainId": 59144,
+            "name": "Staked Mendi",
+            "symbol": "sMendi",
+            "logoURI": "https://assets.coingecko.com/coins/images/31418/standard/mendi_finance_token_logo_v1.png?1696530233",
+            "decimals": 18,
+            "address": "0x150b1e51738cdf0ccfe472594c62d7d6074921ca"
+        },
+        "0xcf8dedcdc62317beaedfbee3c77c08425f284486": {
+            "chainId": 59144,
+            "name": "Staked Mendi",
+            "symbol": "uMendi",
+            "logoURI": "https://assets.coingecko.com/coins/images/31418/standard/mendi_finance_token_logo_v1.png?1696530233",
+            "decimals": 18,
+            "address": "0xcf8dedcdc62317beaedfbee3c77c08425f284486"
+        },
+        "0xcc22f6aa610d1b2a0e89ef228079cb3e1831b1d1": {
+            "chainId": 59144,
+            "name": "Linea Velocore",
+            "symbol": "LVC",
+            "logoURI": "https://assets.coingecko.com/coins/images/31537/standard/LVC.png?1696530346",
+            "decimals": 18,
+            "address": "0xcc22f6aa610d1b2a0e89ef228079cb3e1831b1d1"
+        },
+        "0xaec06345b26451bda999d83b361beaad6ea93f87": {
+            "chainId": 59144,
+            "name": "Locked LVC",
+            "symbol": "veLVC",
+            "logoURI": "https://bit.ly/3WEJF7N",
+            "decimals": 18,
+            "address": "0xaec06345b26451bda999d83b361beaad6ea93f87"
+        },
+        "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7": {
+            "chainId": 59144,
+            "name": "ZeroLend",
+            "symbol": "ZERO",
+            "logoURI": "https://assets.coingecko.com/coins/images/37375/standard/image.png?1714884543",
+            "decimals": 18,
+            "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7"
+        }
+    },
+    "mainTokens": [
+        "0x3d4b2132ed4ea0aa93903713a4de9f98e625a5c7",
+        "0x1578f35532fa091eced8638730f9db829930ce16",
+        "0x6baa318cf7c51c76e17ae1ebe9bbff96ae017acb",
+        "0x5b16228b94b68c7ce33af2acc5663ebde4dcfa2d",
+        "0xacb54d07ca167934f57f829bee2cc665e1a5ebef",
+        "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5",
+        "0xa88b54e6b76fb97cdb8ecae868f1458e18a953f4",
+        "0x1f031f8c523b339c7a831355879e3568fa3eb263",
+        "0x70359c1eeb98eb3d12ee7178359a4541ff11cc8e",
+        "0x5fbdf89403270a1846f5ae7d113a989f850d1566",
+        "0x0a79e44c99505c7f388ca30c787ff97217e73ecc",
+        "0xe516a5cff996cc399efbb48355fd5ab83438e7a9",
+        "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487",
+        "0x0e5f2ee8c29e7ebc14e45da7ff90566d8c407db7",
+        "0x3b2f62d42db19b30588648bf1c184865d4c3b1d6",
+        "0x0e076aafd86a71dceac65508daf975425c9d0cb6",
+        "0xd83af4fbd77f3ab65c3b1dc4b38d7e67aecf599a",
+        "0x9d36f49d3d42b3a9bcc0f5ac76ff8ef78fb2bc01",
+        "0x1be3735dd0c0eb229fb11094b6c277192349ebbf",
+        "0x1a51b19ce03dbe0cb44c1528e34a7edd7771e9af",
+        "0xf3b001d64c656e30a62fbaaca003b1336b4ce12a",
+        "0x2442bd7ae83b51f6664de408a385375fe4a84f52",
+        "0xaaaac83751090c6ea42379626435f805ddf54dc8",
+        "0xe2a6e74118e708f7652fc4c74d2f9ee5fa210563",
+        "0xd2bc272ea0154a93bf00191c8a1db23e67643ec5",
+        "0xa6eb75b11b36fb9175fb94c5b96959879a26c2a8",
+        "0x7da14988e4f390c2e34ed41df1814467d3ade0c3",
+        "0x13a7f090d46c74acba98c51786a5c46ed9a474f0",
+        "0x99ad925c1dc14ac7cc6ca1244eef8043c74e99d5",
+        "0x6ef95b6f3b0f39508e3e04054be96d5ee39ede0d",
+        "0x93f4d0ab6a8b4271f4a28db399b5e30612d21116",
+        "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+        "0xc84f2ce21272f17d92d2a450f1c8567bf0ff448e",
+        "0x636b22bc471c955a8db60f28d4795066a8201fa3",
+        "0x15eefe5b297136b8712291b632404b66a8ef4d25",
+        "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
+        "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+        "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917",
+        "0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13",
+        "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
+        "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+        "0xb5bedd42000b71fdde22d3ee8a79bd49a568fc8f",
+        "0x8c56017b172226fe024dea197748fc1eaccc82b1",
+        "0x3e5d9d8a63cc8a88748f229999cf59487e90721e",
+        "0x43e8809ea748eff3204ee01f08872f063e44065f",
+        "0x150b1e51738cdf0ccfe472594c62d7d6074921ca",
+        "0xcf8dedcdc62317beaedfbee3c77c08425f284486",
+        "0xcc22f6aa610d1b2a0e89ef228079cb3e1831b1d1",
+        "0xaec06345b26451bda999d83b361beaad6ea93f87",
+        "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7"
+    ],
+    "version": "1"
+}
