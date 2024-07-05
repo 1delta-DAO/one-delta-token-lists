@@ -292,7 +292,7 @@
         "0x176211869ca2b568f2a7d4ee941e073a821ee1ff": {
             "chainId": 59144,
             "name": "USD Coin",
-            "symbol": "USDC",
+            "symbol": "USDC.e",
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
             "decimals": 6,
             "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff"
