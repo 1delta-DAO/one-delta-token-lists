@@ -9,14 +9,6 @@
             "chainId": 137,
             "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
         },
-        "0x0000000000000000000000000000000000001010": {
-            "address": "0x0000000000000000000000000000000000001010",
-            "decimals": 18,
-            "name": "Matic Token",
-            "symbol": "MATIC",
-            "chainId": 137,
-            "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
-        },
         "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
             "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
             "decimals": 6,
