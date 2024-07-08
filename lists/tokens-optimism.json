@@ -664,10 +664,19 @@
             "logoURI": "https://tokens.1inch.io/0xfdeffc7ad816bf7867c642df7ebc2cc5554ec265.png",
             "decimals": 18,
             "address": "0xfdeffc7ad816bf7867c642df7ebc2cc5554ec265"
+        },
+        "0xb4bc46bc6cb217b59ea8f4530bae26bf69f677f0": {
+            "chainId": 10,
+            "name": "BeethovenxToken",
+            "symbol": "BEETS",
+            "logoURI": "https://assets.coingecko.com/coins/images/19158/standard/beets-icon-large.png?1696518608",
+            "decimals": 18,
+            "address": "0xb4bc46bc6cb217b59ea8f4530bae26bf69f677f0"
         }
     },
     "mainTokens": [
         "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+        "0xb4bc46bc6cb217b59ea8f4530bae26bf69f677f0",
         "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
         "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
         "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
