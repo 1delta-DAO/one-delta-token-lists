@@ -363,9 +363,9 @@
         },
         "0x9560e827af36c94d2ac33a39bce1fe78631088db": {
             "chainId": 10,
-            "name": "Velodrome Finance",
+            "name": "Velodrome Finance V2",
             "symbol": "VELO",
-            "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/tokens/10/0x9560e827af36c94d2ac33a39bce1fe78631088db/logo.svg",
+            "logoURI": "https://optimistic.etherscan.io/token/images/velodromefinance_32.png",
             "decimals": 18,
             "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db"
         },
@@ -549,7 +549,7 @@
             "chainId": 10,
             "name": "Velodrome",
             "symbol": "VELO",
-            "logoURI": "https://tokens.1inch.io/0x3c8b650257cfb5f272f799f5e2b4e65093a11a05.png",
+            "logoURI": "https://optimistic.etherscan.io/token/images/velodrome_32.png",
             "decimals": 18,
             "address": "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05"
         },
