@@ -333,7 +333,7 @@
             "chainId": 10,
             "name": "Uniswap",
             "symbol": "UNI",
-            "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+            "logoURI": "https://assets.polygon.technology/tokenAssets/uni.svg",
             "decimals": 18,
             "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691"
         },
