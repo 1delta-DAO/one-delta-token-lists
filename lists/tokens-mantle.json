@@ -89,6 +89,14 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111.png"
         },
+        "0xc96de26018a54d51c097160568752c4e3bd6c364": {
+            "chainId": 5000,
+            "name": "Ignition FBTC",
+            "symbol": "FBTC",
+            "logoURI": "https://token-list.mantle.xyz/data/FBTC/logo.svg",
+            "decimals": 8,
+            "address": "0xc96de26018a54d51c097160568752c4e3bd6c364"
+        },
         "0x6efff76acf1698a6a215eca7d632991678ec673b": {
             "chainId": 5000,
             "name": "FLOKI",
@@ -605,7 +613,8 @@
         "0x74262b38609a4155EaB4eEcFDcD0E339Da2cF1b2",
         "0xd305e3d9E24D0CA1ff56ed43A2bF4C58Bb4De57B",
         "0x6ede8fa28da1b0880565ca0Eb670396A66408272",
-        "0x4b7F28397B4294277E7825f224172944f4f5A877"
+        "0x4b7F28397B4294277E7825f224172944f4f5A877",
+        "0xc96de26018a54d51c097160568752c4e3bd6c364"
     ],
-    "version": "2"
+    "version": "3"
 }
