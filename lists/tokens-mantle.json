@@ -567,6 +567,14 @@
             "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x6ede8fa28da1b0880565ca0Eb670396A66408272/logo.png",
             "decimals": 18,
             "address": "0x6ede8fa28da1b0880565ca0eb670396a66408272"
+        },
+        "0x2b19015bd5B9270097d1cEc431c800d11e9f4841": {
+            "chainId": 5000,
+            "name": "Pineapple",
+            "symbol": "PAPPLE",
+            "logoURI": "https://tropilcalswap.netlify.app/images/symbol/PAPPLE.png",
+            "decimals": 18,
+            "address": "0x2b19015bd5B9270097d1cEc431c800d11e9f4841"
         }
     },
     "mainTokens": [
