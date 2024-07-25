@@ -47,7 +47,7 @@
             "name": "Aave",
             "symbol": "AAVE",
             "chainId": 137,
-            "logoURI": "https://assets.polygon.technology/tokenAssets/aave.svg"
+            "logoURI": "https://assets.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354"
         },
         "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39": {
             "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
