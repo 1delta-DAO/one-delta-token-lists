@@ -365,7 +365,7 @@
             "chainId": 5000,
             "name": "Theranos Coin",
             "symbol": "LIZ",
-            "logoURI": "https://butter.xyz/_next/image?url=%2Fassets%2Fcurrencies%2Ficons%2FLIZ.png&w=128&q=100",
+            "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
             "address": "0xe449bf38e417b32245dc27552d8de8a733e830d5",
             "decimals": 18
         },
