@@ -49,6 +49,14 @@
             "decimals": 6,
             "address": "0x2def195713cf4a606b49d07e520e22c17899a736"
         },
+        "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd": {
+            "chainId": 167000,
+            "name": "Briged Tether USD (Stargate)",
+            "symbol": "USDT.e",
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
+            "decimals": 6,
+            "address": "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd"
+        },
         "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c": {
             "chainId": 167000,
             "name": "Bridged USDC (Stargate)",
@@ -70,7 +78,11 @@
         "0xa51894664a773981c6c112c43ce576f315d5b1b6",
         "0xa9d23408b9ba935c230493c40c73824df71a0975",
         "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
-        "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd"
+        "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd",
+        "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c",
+        "0x2def195713cf4a606b49d07e520e22c17899a736",
+        "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb",
+        "0x473c58b748156d3249ca31baa3cad9781eb6d97e"
     ],
     "version": "3"
 }
