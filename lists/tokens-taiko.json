@@ -24,6 +24,46 @@
             "logoURI": "https://assets.coingecko.com/coins/images/38058/standard/taiko.jpeg",
             "decimals": 18,
             "address": "0xa9d23408b9ba935c230493c40c73824df71a0975"
+        },
+        "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb": {
+            "chainId": 167000,
+            "name": "Kodo Token",
+            "symbol": "KODO",
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/kodo.svg",
+            "decimals": 18,
+            "address": "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb"
+        },
+        "0xd347949f8c85d9f3d6b06bfc4f8c2e07c161f064": {
+            "chainId": 167000,
+            "name": "LoopringCoin V2",
+            "symbol": "LRC",
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/lrc.png",
+            "decimals": 18,
+            "address": "0xd347949f8c85d9f3d6b06bfc4f8c2e07c161f064"
+        },
+        "0x2def195713cf4a606b49d07e520e22c17899a736": {
+            "chainId": 167000,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
+            "decimals": 6,
+            "address": "0x2def195713cf4a606b49d07e520e22c17899a736"
+        },
+        "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c": {
+            "chainId": 167000,
+            "name": "Bridged USDC (Stargate)",
+            "symbol": "USDC.e",
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg",
+            "decimals": 6,
+            "address": "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c"
+        },
+        "0x473c58b748156d3249ca31baa3cad9781eb6d97e": {
+            "chainId": 167000,
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/reth.svg",
+            "decimals": 18,
+            "address": "0x473c58b748156d3249ca31baa3cad9781eb6d97e"
         }
     },
     "mainTokens": [
@@ -32,5 +72,5 @@
         "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
         "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd"
     ],
-    "version": "1"
+    "version": "2"
 }
