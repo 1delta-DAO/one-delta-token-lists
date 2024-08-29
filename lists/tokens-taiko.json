@@ -80,6 +80,14 @@
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/reth.svg",
             "decimals": 18,
             "address": "0x473c58b748156d3249ca31baa3cad9781eb6d97e"
+        },
+        "0xed197058a19e3a7c0d1ac402aaadef22a0f31d0b": {
+            "chainId": 167000,
+            "name": "TaikoSwap",
+            "symbol": "TKOSWAP",
+            "logoURI": "https://assets.coingecko.com/coins/images/38471/standard/taikoswap.jpeg?1717647381",
+            "decimals": 18,
+            "address": "0xed197058a19e3a7c0d1ac402aaadef22a0f31d0b"
         }
     },
     "mainTokens": [
@@ -93,5 +101,5 @@
         "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb",
         "0x473c58b748156d3249ca31baa3cad9781eb6d97e"
     ],
-    "version": "9"
+    "version": "10"
 }
