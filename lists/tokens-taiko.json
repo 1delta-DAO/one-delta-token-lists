@@ -33,14 +33,6 @@
             "decimals": 18,
             "address": "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb"
         },
-        "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704": {
-            "chainId": 167000,
-            "name": "Wrapped BTC",
-            "symbol": "WBTC",
-            "logoURI": "https://taikoscan.io/token/images/wrappedbtc_ofc_32.png",
-            "decimals": 8,
-            "address": "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704"
-        },
         "0xd347949f8c85d9f3d6b06bfc4f8c2e07c161f064": {
             "chainId": 167000,
             "name": "LoopringCoin V2",
@@ -57,14 +49,6 @@
             "decimals": 6,
             "address": "0x2def195713cf4a606b49d07e520e22c17899a736"
         },
-        "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd": {
-            "chainId": 167000,
-            "name": "Briged Tether USD (Stargate)",
-            "symbol": "USDT.e",
-            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
-            "decimals": 6,
-            "address": "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd"
-        },
         "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c": {
             "chainId": 167000,
             "name": "Bridged USDC (Stargate)",
@@ -80,6 +64,22 @@
             "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/reth.svg",
             "decimals": 18,
             "address": "0x473c58b748156d3249ca31baa3cad9781eb6d97e"
+        },
+        "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704": {
+            "chainId": 167000,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "logoURI": "https://taikoscan.io/token/images/wrappedbtc_ofc_32.png",
+            "decimals": 8,
+            "address": "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704"
+        },
+        "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd": {
+            "chainId": 167000,
+            "name": "Briged Tether USD (Stargate)",
+            "symbol": "USDT.e",
+            "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
+            "decimals": 6,
+            "address": "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd"
         },
         "0xf9a06e3afaadbccccc8824a1255a88d648ca0ef6": {
             "chainId": 167000,
@@ -101,5 +101,5 @@
         "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb",
         "0x473c58b748156d3249ca31baa3cad9781eb6d97e"
     ],
-    "version": "11"
+    "version": "12"
 }

@@ -57,6 +57,22 @@
             "decimals": 18,
             "logoURI": "https://token-list.mantle.xyz/data/CUPS/logo.svg"
         },
+        "0xd0cf7dfbf09cafab8aef00e0ce19a4638004a364": {
+            "chainId": 5000,
+            "name": "DODO bird",
+            "symbol": "DODO",
+            "logoURI": "https://token-list.mantle.xyz/data/DODO/logo.svg",
+            "decimals": 18,
+            "address": "0xd0cf7dfbf09cafab8aef00e0ce19a4638004a364"
+        },
+        "0x056d4a69d243f176f6d1668722be386c3d50e27b": {
+            "chainId": 5000,
+            "name": "Ember Sword",
+            "symbol": "EMBER",
+            "logoURI": "https://token-list.mantle.xyz/data/EMBER/logo.svg",
+            "decimals": 18,
+            "address": "0x056d4a69d243f176f6d1668722be386c3d50e27b"
+        },
         "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
             "chainId": 5000,
             "name": "ENA",
@@ -345,6 +361,14 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x8A3ed1F2D15b5015396F494cc1Da977da38A6773/logo.png"
         },
+        "0x7f4db37d7beb31f445307782bc3da0f18df13696": {
+            "chainId": 5000,
+            "name": "Yield Yak",
+            "symbol": "YAK",
+            "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x7f4dB37D7bEb31F445307782Bc3Da0F18dF13696/logo.png",
+            "decimals": 18,
+            "address": "0x7f4db37d7beb31f445307782bc3da0f18df13696"
+        },
         "0x74262b38609a4155eab4eecfdcd0e339da2cf1b2": {
             "chainId": 5000,
             "name": "69",
@@ -360,6 +384,30 @@
             "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x4b7F28397B4294277E7825f224172944f4f5A877/logo.png",
             "decimals": 18,
             "address": "0x4b7f28397b4294277e7825f224172944f4f5a877"
+        },
+        "0xa0d5ed78cd27ca1dd1f081bd980b786f55106249": {
+            "chainId": 5000,
+            "name": "COQINU",
+            "symbol": "COQ",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x420FcA0121DC28039145009570975747295f2329/logo.png",
+            "decimals": 18,
+            "address": "0xa0d5ed78cd27ca1dd1f081bd980b786f55106249"
+        },
+        "0xbe5acfd64358805616b5cbd5277b9a85011d7cf1": {
+            "chainId": 5000,
+            "name": "Pichi",
+            "symbol": "PCH",
+            "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xBE5ACfd64358805616b5cbD5277B9A85011d7Cf1/logo.png",
+            "decimals": 18,
+            "address": "0xbe5acfd64358805616b5cbd5277b9a85011d7cf1"
+        },
+        "0x1bdd8878252daddd3af2ba30628813271294edc0": {
+            "chainId": 5000,
+            "name": "Cati",
+            "symbol": "Catizen",
+            "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x1Bdd8878252DaddD3Af2ba30628813271294eDc0/logo.png",
+            "decimals": 18,
+            "address": "0x1bdd8878252daddd3af2ba30628813271294edc0"
         },
         "0xe449bf38e417b32245dc27552d8de8a733e830d5": {
             "chainId": 5000,
@@ -575,6 +623,22 @@
             "logoURI": "https://tropilcalswap.netlify.app/images/symbol/PAPPLE.png",
             "decimals": 18,
             "address": "0x2b19015bd5b9270097d1cec431c800d11e9f4841"
+        },
+        "0xc01a7ad7fb8a085a3cc16be8eaa10302c78a1783": {
+            "chainId": 5000,
+            "name": "Aurelius Token",
+            "symbol": "AU",
+            "logoURI": "https://cleopatra.exchange/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FRamsesExchange%2Framses-assets%2Fmain%2Fblockchains%2Fmantle%2Fassets%2F0xC01a7AD7Fb8a085a3cc16be8eaA10302c78a1783%2Flogo.png&w=32&q=75",
+            "decimals": 18,
+            "address": "0xc01a7ad7fb8a085a3cc16be8eaa10302c78a1783"
+        },
+        "0x6e20e155819f0ee08d1291b0b9889b0e011b8224": {
+            "chainId": 5000,
+            "name": "Aurelius Call Option Token",
+            "symbol": "oAU",
+            "logoURI": "https://granary-silo-images.s3.ap-southeast-2.amazonaws.com/1724784184823-oAU_Token.png",
+            "decimals": 18,
+            "address": "0x6e20e155819f0ee08d1291b0b9889b0e011b8224"
         }
     },
     "mainTokens": [
@@ -623,7 +687,8 @@
         "0x6ede8fa28da1b0880565ca0Eb670396A66408272",
         "0x4b7F28397B4294277E7825f224172944f4f5A877",
         "0xc96de26018a54d51c097160568752c4e3bd6c364",
-        "0x2b19015bd5b9270097d1cec431c800d11e9f4841"
+        "0x2b19015bd5b9270097d1cec431c800d11e9f4841",
+        "0xc01a7ad7fb8a085a3cc16be8eaa10302c78a1783"
     ],
-    "version": "3"
+    "version": "5"
 }
