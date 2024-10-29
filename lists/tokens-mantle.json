@@ -33,6 +33,22 @@
             "symbol": "BEL",
             "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bel.png"
         },
+        "0xe6829d9a7ee3040e1276fa75293bde931859e8fa": {
+            "chainId": 5000,
+            "name": "cmETH",
+            "symbol": "cmETH",
+            "logoURI": "https://token-list.mantle.xyz/data/cmETH/logo.svg",
+            "decimals": 18,
+            "address": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa"
+        },
+        "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d": {
+            "chainId": 5000,
+            "name": "COOK",
+            "symbol": "COOK",
+            "logoURI": "https://token-list.mantle.xyz/data/COOK/logo.svg",
+            "decimals": 18,
+            "address": "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d"
+        },
         "0xe265fc71d45fd791c9ebf3ee0a53fbb220eb8f75": {
             "chainId": 5000,
             "name": "Curve DAO Token",
@@ -409,6 +425,14 @@
             "decimals": 18,
             "address": "0x1bdd8878252daddd3af2ba30628813271294edc0"
         },
+        "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
+            "chainId": 5000,
+            "name": "AUSD",
+            "symbol": "AUSD",
+            "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a/logo.png",
+            "decimals": 6,
+            "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a"
+        },
         "0xe449bf38e417b32245dc27552d8de8a733e830d5": {
             "chainId": 5000,
             "name": "Theranos Coin",
@@ -648,6 +672,8 @@
         "0xD2B4C9B0d70e3Da1fBDD98f469bD02E77E12FC79",
         "0xD7782b99671DD23203eBd4584FC71cf2B3dbB111",
         "0xcDA86A272531e8640cD7F1a92c01839911B90bb0",
+        "0xe6829d9a7ee3040e1276fa75293bde931859e8fa",
+        "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d",
         "0x827C60AdaBef4419a0B23Fe675FD1827b588CaAc",
         "0x217B4382a1De262C0FBa97C1B8378904B4a25e4D",
         "0x26a6b0dcdCfb981362aFA56D581e4A7dBA3Be140",
@@ -690,5 +716,5 @@
         "0x2b19015bd5b9270097d1cec431c800d11e9f4841",
         "0xc01a7ad7fb8a085a3cc16be8eaa10302c78a1783"
     ],
-    "version": "5"
+    "version": "6"
 }
