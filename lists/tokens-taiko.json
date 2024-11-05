@@ -88,6 +88,22 @@
             "logoURI": "https://assets.coingecko.com/coins/images/38471/standard/taikoswap.jpeg?1717647381",
             "decimals": 18,
             "address": "0xf9a06e3afaadbccccc8824a1255a88d648ca0ef6"
+        },
+        "0x2d9e1da77f086c50f93db46e554974b71536a9ee": {
+            "chainId": 167000,
+            "name": "MAGA",
+            "symbol": "MAGA",
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/maga.png",
+            "decimals": 18,
+            "address": "0x2d9e1da77f086c50f93db46e554974b71536a9ee"
+        },
+        "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9": {
+            "chainId": 167000,
+            "name": "Affine ultraETHs 2.0",
+            "symbol": "ultraETHs",
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ultraeths.png",
+            "decimals": 18,
+            "address": "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9"
         }
     },
     "mainTokens": [
@@ -99,7 +115,9 @@
         "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c",
         "0x2def195713cf4a606b49d07e520e22c17899a736",
         "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb",
-        "0x473c58b748156d3249ca31baa3cad9781eb6d97e"
+        "0x473c58b748156d3249ca31baa3cad9781eb6d97e",
+        "0x2d9e1da77f086c50f93db46e554974b71536a9ee",
+        "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9"
     ],
-    "version": "12"
+    "version": "13"
 }
