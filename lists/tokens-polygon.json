@@ -7,7 +7,7 @@
             "name": "Ether",
             "symbol": "ETH",
             "chainId": 137,
-            "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
         "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
             "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
@@ -15,7 +15,7 @@
             "name": "Bridged USD Coin",
             "symbol": "USDC.e",
             "chainId": 137,
-            "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
         "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359": {
             "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
@@ -23,7 +23,7 @@
             "name": "USD Coin",
             "symbol": "USDC",
             "chainId": 137,
-            "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
         "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
             "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
@@ -39,7 +39,7 @@
             "name": "Dai",
             "symbol": "DAI",
             "chainId": 137,
-            "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg"
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
         },
         "0xd6df932a45c0f255f85145f286ea0b292b21c90b": {
             "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
@@ -19697,5 +19697,5 @@
         "0x6985884c4392d348587b19cb9eaaf157f13271cd",
         "0x5559edb74751a0ede9dea4dc23aee72cca6be3d5"
     ],
-    "version": "3"
+    "version": "4"
 }
