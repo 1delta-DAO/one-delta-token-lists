@@ -105,7 +105,7 @@
             "decimals": 18,
             "address": "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9"
         },
-        "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7" :{
+        "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7": {
             "chainId": 167000,
             "name": "izumi Token",
             "symbol": "iZi",
@@ -113,7 +113,7 @@
             "decimals": 18,
             "address": "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7"
         },
-        "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a" :{
+        "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a": {
             "chainId": 167000,
             "name": "Wrapped sxETH",
             "symbol": "wsxETH",
@@ -121,7 +121,7 @@
             "decimals": 18,
             "address": "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a"
         },
-        "0x541fd749419ca806a8bc7da8ac23d346f2df8b77" :{
+        "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
             "chainId": 167000,
             "name": "Solv BTC",
             "symbol": "SolvBTC",
@@ -129,13 +129,21 @@
             "decimals": 18,
             "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77"
         },
-        "0xcc0966d8418d412c599a6421b760a847eb169a8c" :{
+        "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
             "chainId": 167000,
             "name": "SolvBTC Babylon",
             "symbol": "SolvBTC.BBN",
             "logoURI": "https://app.avalonfinance.xyz/icons/tokens/solvbtc.bbn.svg",
             "decimals": 18,
             "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c"
+        },
+        "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49": {
+            "chainId": 167000,
+            "name": "Merlin BTC",
+            "symbol": "M-BTC",
+            "logoURI": "https://app.avalonfinance.xyz/icons/tokens/m-btc.svg",
+            "decimals": 18,
+            "address": "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49"
         }
     },
     "mainTokens": [
@@ -148,12 +156,16 @@
         "0x2def195713cf4a606b49d07e520e22c17899a736",
         "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb",
         "0x473c58b748156d3249ca31baa3cad9781eb6d97e",
+        "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
         "0x2d9e1da77f086c50f93db46e554974b71536a9ee",
         "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9",
         "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7",
         "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
         "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a",
-        "0xcc0966d8418d412c599a6421b760a847eb169a8c"
+        "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+        "0xa51894664a773981c6c112c43ce576f315d5b1b6",
+        "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
+        "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd"
     ],
-    "version": "14"
+    "version": "15"
 }
