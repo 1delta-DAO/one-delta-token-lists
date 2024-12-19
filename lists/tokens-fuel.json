@@ -11,6 +11,16 @@
             "contractId": "",
             "subId": ""
         },
+        "0x1d5d97005e41cae2187a895fd8eab0506111e0e2f3331cd3912c15c24e3c1d82": {
+            "chainId": -1,
+            "name": "Fuel",
+            "address": "0x1d5d97005e41cae2187a895fd8eab0506111e0e2f3331cd3912c15c24e3c1d82",
+            "symbol": "FUEL",
+            "decimals": 9,
+            "logoURI": "https://verified-assets.fuel.network/images/fuel.svg",
+            "contractId": "0x4ea6ccef1215d9479f1024dff70fc055ca538215d2c8c348beddffd54583d0e8",
+            "subId": "0xe81c89b8cf795c7c25e79f6c4f2f1cd233290b58e217ed4e9b6b18538badddaf"
+        },
         "0xa38a5a8beeb08d95744bc7f58528073f4052b254def59eba20c99c202b5acaa3": {
             "chainId": -1,
             "name": "WETH",
@@ -274,6 +284,7 @@
     },
     "mainTokens": [
         "0xf8f8b6283d7fa5b672b530cbb84fcccb4ff8dc40f8176ef4544ddb1f1952ad07",
+        "0x1d5d97005e41cae2187a895fd8eab0506111e0e2f3331cd3912c15c24e3c1d82",
         "0xa38a5a8beeb08d95744bc7f58528073f4052b254def59eba20c99c202b5acaa3",
         "0x239ed6e12b7ce4089ee245244e3bf906999a6429c2a9a445a1e1faf56914a4ab",
         "0xbae80f7fb8aa6b90d9b01ef726ec847cc4f59419c4d5f2ea88fec785d1b0e849",
@@ -301,5 +312,5 @@
         "0xf2fc648c23a5db24610a1cf696acc4f0f6d9a7d6028dd9944964ab23f6e35995",
         "0x4fc8ac9f101df07e2c2dec4a53c8c42c439bdbe5e36ea2d863a61ff60afafc30"
     ],
-    "version": "1"
+    "version": "2"
 }
