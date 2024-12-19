@@ -454,5 +454,11 @@
         "0xaec06345b26451bda999d83b361beaad6ea93f87",
         "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7"
     ],
+    "bridgeTokens": [
+        "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+        "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+        "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+        "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4"
+    ],
     "version": "1"
 }
