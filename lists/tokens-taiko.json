@@ -162,10 +162,15 @@
         "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7",
         "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
         "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a",
-        "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+        "0xcc0966d8418d412c599a6421b760a847eb169a8c"
+    ],
+    "bridgeTokens": [
         "0xa51894664a773981c6c112c43ce576f315d5b1b6",
         "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
-        "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd"
+        "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c",
+        "0x2def195713cf4a606b49d07e520e22c17899a736",
+        "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd",
+        "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704"
     ],
-    "version": "15"
+    "version": "16"
 }

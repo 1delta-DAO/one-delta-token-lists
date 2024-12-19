@@ -5142,5 +5142,12 @@
         "0x6985884C4392D348587B19cb9eAAf157F13271cd",
         "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf"
     ],
+    "bridgeTokens": [
+        "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3",
+        "0x55d398326f99059ff775485246999027b3197955",
+        "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+    ],
     "version": "1"
 }
