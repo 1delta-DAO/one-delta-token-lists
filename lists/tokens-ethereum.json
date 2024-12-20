@@ -761,6 +761,14 @@
             "decimals": 18,
             "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
         },
+        "0x675b68aa4d9c2d3bb3f0397048e62e6b7192079c": {
+            "chainId": 1,
+            "name": "Fuel",
+            "symbol": "FUEL",
+            "logoURI": "https://verified-assets.fuel.network/images/fuel.svg",
+            "decimals": 9,
+            "address": "0x675b68aa4d9c2d3bb3f0397048e62e6b7192079c"
+        },
         "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057": {
             "chainId": 1,
             "name": "Function X",
@@ -2102,6 +2110,7 @@
         "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
         "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
         "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+        "0x675b68aa4d9c2d3bb3f0397048e62e6b7192079c",
         "0x4d224452801aced8b2f0aebe155379bb5d594381",
         "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
         "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
