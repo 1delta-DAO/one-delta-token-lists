@@ -353,6 +353,14 @@
             "decimals": 18,
             "address": "0x3e4cff6e50f37f731284a92d44ae943e17077fd4"
         },
+        "0xd22a58f79e9481d1a88e00c343885a588b34b68b": {
+            "address": "0xd22a58f79e9481d1a88e00c343885a588b34b68b",
+            "decimals": 2,
+            "name": "STASIS EURS Token",
+            "symbol": "EURS",
+            "chainId": 42161,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2989.png"
+        },
         "0xdf8f0c63d9335a0abd89f9f752d293a98ea977d8": {
             "chainId": 42161,
             "name": "Ethena",
@@ -625,6 +633,14 @@
             "decimals": 18,
             "address": "0x539bde0d7dbd336b79148aa742883198bbf60342"
         },
+        "0x3f56e0c36d275367b8c502090edf38289b3dea0d": {
+            "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+            "decimals": 18,
+            "name": "Mai Stablecoin",
+            "symbol": "MAI",
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/15264/standard/mimatic-red.png?1696514916"
+        },
         "0x442d24578a564ef628a65e6a7e3e7be2a165e231": {
             "chainId": 42161,
             "name": "Decentraland",
@@ -712,6 +728,14 @@
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17704.png",
             "decimals": 18,
             "address": "0x5445972e76c5e4cedd12b6e2bcef69133e15992f"
+        },
+        "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33": {
+            "chainId": 42161,
+            "name": "GHO Token",
+            "symbol": "GHO",
+            "logoURI": "https://arbiscan.io/token/images/aavegho_new_32.png",
+            "decimals": 18,
+            "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33"
         },
         "0x91b468fe3dce581d7a6cfe34189f1314b6862ed6": {
             "chainId": 42161,
@@ -4002,6 +4026,7 @@
         "0x2ef354c71caab6dc7469bb3c99642878ccd1143f",
         "0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d",
         "0x79ead7a012d97ed8deece279f9bc39e264d7eef9",
+        "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
         "0x1922c36f3bc762ca300b4a46bb2102f84b1684ab",
         "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
         "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
@@ -4195,5 +4220,5 @@
         "0xeb466342c4d449bc9f53a865d5cb90586f405215",
         "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f"
     ],
-    "version": "3"
+    "version": "4"
 }
