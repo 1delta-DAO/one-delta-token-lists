@@ -176,6 +176,14 @@
             "logoURI": "https://images.dodoex.io/yj_L45Yvz01b54avWCNl7pKoEyr7F0e6xmj8ChYcdLA/rs:fit:36:36:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weGUzYzBmZjE3NmVmOTJmYzIyNTA5NmM2ZDE3ODhjY2I4MTg4MDhiMzU.webp",
             "decimals": 8,
             "address": "0xe3c0ff176ef92fc225096c6d1788ccb818808b35"
+        },
+        "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f": {
+            "chainId": 167000,
+            "name": "Swapsicle SLUSH Token",
+            "symbol": "SLUSH",
+            "logoURI": "https://app.swapsicle.io/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fswapsicledex%2Fswapsicle-token-list%2Fmaster%2Flogos%2Fmantle%2F0x950570d7b3cec2d93b506d2d4eb53f38cbd130b0%2Flogo.png&w=32&q=75",
+            "decimals": 18,
+            "address": "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f"
         }
     },
     "mainTokens": [
@@ -192,6 +200,7 @@
         "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb",
         "0x473c58b748156d3249ca31baa3cad9781eb6d97e",
         "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
+        "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f",
         "0x2d9e1da77f086c50f93db46e554974b71536a9ee",
         "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9",
         "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7",
@@ -208,5 +217,5 @@
         "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd",
         "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704"
     ],
-    "version": "17"
+    "version": "18"
 }
