@@ -1701,16 +1701,6 @@
             "contractId": "0x81d5964bfbb24fd994591cc7d0a4137458d746ac0eb7ececb9a9cf2ae966d942",
             "subId": "0x00000000000000000000000000000000000000000000000000000000000000af"
         },
-        "0x430cf4dae7eb63b50821efeb361d501423634016975dde5342782ea1a7dad10a": {
-            "chainId": -1,
-            "name": "James",
-            "address": "0x430cf4dae7eb63b50821efeb361d501423634016975dde5342782ea1a7dad10a",
-            "symbol": "eth",
-            "decimals": 9,
-            "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F16.65.webp?alt=media&token=a511346b-b431-4a2d-9ab2-8c88cdb98ea1",
-            "contractId": "0x81d5964bfbb24fd994591cc7d0a4137458d746ac0eb7ececb9a9cf2ae966d942",
-            "subId": "0x0000000000000000000000000000000000000000000000000000000000000191"
-        },
         "0x26c4dc3a5a9ea8e2ee724d8b0960bf08f588dac2e23b8429877e947937e36b9b": {
             "chainId": -1,
             "name": "Daram",
@@ -6361,16 +6351,6 @@
             "contractId": "0x81d5964bfbb24fd994591cc7d0a4137458d746ac0eb7ececb9a9cf2ae966d942",
             "subId": "0x0000000000000000000000000000000000000000000000000000000000000285"
         },
-        "0xfe24c5dbc0ffa0a640db3524f43194dffb1b51d3b03a0421716baab4b9d95b61": {
-            "chainId": -1,
-            "name": "eth",
-            "address": "0xfe24c5dbc0ffa0a640db3524f43194dffb1b51d3b03a0421716baab4b9d95b61",
-            "symbol": "eth",
-            "decimals": 9,
-            "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2F2566c8d1-c27b-41c7-be16-bab634b1c5d1.webp?alt=media&token=304973b1-8ad5-417d-b192-451a341efaa8",
-            "contractId": "0x81d5964bfbb24fd994591cc7d0a4137458d746ac0eb7ececb9a9cf2ae966d942",
-            "subId": "0x0000000000000000000000000000000000000000000000000000000000000289"
-        },
         "0xb6cd1a69eea3287a41c5d7fd21569cea59cfcfa9bef7fe8d98f54e78a0d170ac": {
             "chainId": -1,
             "name": "duck",
@@ -8714,5 +8694,5 @@
         "0x286c479da40dc953bddc3bb4c453b608bba2e0ac483b077bd475174115395e6b",
         "0xa0265fb5c32f6e8db3197af3c7eb05c48ae373605b8165b6f4a51c5b0ba4812e"
     ],
-    "version": "4"
+    "version": "5"
 }
