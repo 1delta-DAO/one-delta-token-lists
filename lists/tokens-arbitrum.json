@@ -3725,7 +3725,7 @@
             "chainId": 42161,
             "name": "Renzo Restaked ETH",
             "symbol": "ezETH",
-            "logoURI": "https://token-list.camelot.exchange/assets/ezeth.png",
+            "logoURI": "https://app.aave.com/icons/tokens/ezeth.svg",
             "decimals": 18,
             "address": "0x2416092f143378750bb29b79ed961ab195cceea5"
         },
