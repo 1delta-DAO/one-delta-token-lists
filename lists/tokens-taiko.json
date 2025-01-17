@@ -125,7 +125,7 @@
             "chainId": 167000,
             "name": "Solv BTC",
             "symbol": "SolvBTC",
-            "logoURI": "https://panko.finance/images/token-image/solvbtc.png",
+            "logoURI": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684",
             "decimals": 18,
             "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77"
         },
@@ -133,7 +133,7 @@
             "chainId": 167000,
             "name": "SolvBTC Babylon",
             "symbol": "SolvBTC.BBN",
-            "logoURI": "https://app.avalonfinance.xyz/icons/tokens/solvbtc.bbn.svg",
+            "logoURI": "https://assets.coingecko.com/coins/images/39384/standard/unnamed.png?1721961640",
             "decimals": 18,
             "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c"
         },
@@ -141,7 +141,7 @@
             "chainId": 167000,
             "name": "Merlin BTC",
             "symbol": "M-BTC",
-            "logoURI": "https://app.avalonfinance.xyz/icons/tokens/m-btc.svg",
+            "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg",
             "decimals": 18,
             "address": "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49"
         },
