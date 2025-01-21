@@ -19627,6 +19627,8 @@
         "0x66dc5a08091d1968e08c16aa5b27bac8398b02be",
         "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
         "0xbd7a5cf51d22930b8b3df6d834f9bcef90ee7c4f",
+        "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",
+        "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
         "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8",
         "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
         "0x42f37a1296b2981f7c3caced84c5096b2eb0c72c",
@@ -19699,5 +19701,5 @@
         "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
         "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
     ],
-    "version": "5"
+    "version": "6"
 }
